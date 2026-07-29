@@ -11,7 +11,7 @@ use OCP\Settings\ISettings;
 class AdminSettings implements ISettings {
     private IConfig $config;
     private IInitialState $initialState;
-    private string $appName = 'appstore_switcher'; // Wichtig: Der Name Ihrer App
+    private string $appName = 'appstore_switcher';
 
     public function __construct(IConfig $config, IInitialState $initialState) {
         $this->config = $config;

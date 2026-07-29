@@ -116,15 +116,15 @@ class AdminController extends Controller {
         curl_close($ch);
 
         if ($httpCode === 200) {
-            $this->logger->info("Datei $url existiert (HTTP 200).");
+            $this->logger->info("AppStoreSwitcher: File $url exists (HTTP 200).");
             $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/' . $file;
             if (file_exists($jsonfile_within_appstorefolder)) {
                 unlink($jsonfile_within_appstorefolder);
             }
         } elseif (in_array($httpCode, [403, 401], true)) {
-            $this->logger->error("Datei $url existiert ggf., aber Zugriff verweigert (HTTP $httpCode).");
+            $this->logger->error("AppStoreSwitcher: File $url may exist, but access denied (HTTP $httpCode).");
         } else {
-            $this->logger->error("Datei $url existiert wahrscheinlich nicht (HTTP $httpCode).");
+            $this->logger->error("AppStoreSwitcher: File $url probably does not exist (HTTP $httpCode).");
         }
         return new JSONResponse(['success' => true]);
     }
