@@ -100,7 +100,7 @@ class AdminController extends Controller {
     }
 
     public function checkfile(string $file): JSONResponse {
-        $url = $this->config->getSystemValue('appstoreurl') . $file;
+        $url = $this->config->getSystemValue('appstoreurl') . '/' . $file;
 
         $ch = curl_init($url);
         curl_setopt_array($ch, [
