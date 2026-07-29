@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>appstore_switcher</id>
+    <name>App Store Switcher</name>
+    <summary>Switch between official and custom app stores</summary>
+    <description><![CDATA[Allows administrators to dynamically switch the app store source between the official Nextcloud store and a custom URL.]]></description>
+    <version>1.0.0</version>
+    <licence>agpl</licence>
+    <author>Your Name</author>
+    <namespace>AppStoreSwitcher</namespace>
+    <category>tools</category>
+    <category>monitoring</category>
+    <website>https://your-website.com</website>
+    <bugs>https://your-bug-tracker.com</bugs>
+    <dependencies>
+        <nextcloud min-version="32" max-version="35"/>
+    </dependencies>
+    <settings>
+        <admin-section>OCA\AppStoreSwitcher\Settings\AdminSection</admin-section>
+        <admin>OCA\AppStoreSwitcher\Settings\AdminSettings</admin>
+    </settings>
+</info>
