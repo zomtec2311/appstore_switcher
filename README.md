@@ -1,5 +1,7 @@
 # App Store Switcher
 
+![https://raw.githubusercontent.com/zomtec2311/appstore_switcher/refs/heads/main/custom-appstore.png](https://raw.githubusercontent.com/zomtec2311/appstore_switcher/refs/heads/main/custom-appstore.png)
+
 Switch between official and custom app stores
 
 ## ✨ About
@@ -12,7 +14,6 @@ Switch between official and custom app stores
 - ✏️ No manual editing of the config file
 - 👉 Note that this app does not have a direct link, but can be accessed via the administration settings after installation
 
-![https://raw.githubusercontent.com/zomtec2311/appstore_switcher/refs/heads/main/custom-appstore.png](https://raw.githubusercontent.com/zomtec2311/appstore_switcher/refs/heads/main/custom-appstore.png)​
 ![https://raw.githubusercontent.com/zomtec2311/appstore_switcher/refs/heads/main/appstore_switcher1.png](https://raw.githubusercontent.com/zomtec2311/appstore_switcher/refs/heads/main/appstore_switcher1.png)​
 
 ## ⚙️ Usage
