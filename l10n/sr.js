@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Промените извор продавнице апликација",
+"Current App Store:": "Тренутна продавница апликација:",
+"Official": "Службено",
+"Cleaning Cache...": "Чишћење кеша...",
+"{name} deleted": "КСИЗА избрисана",
+"Delete {name}": "Обриши КСИЗА",
+"Media cache (discover) cleared": "Кеш медија КСИБ је обрисан",
+"Clear media cache (discover)": "Обришите кеш медија КСИБ",
+"Official App Store": "Званична продавница апликација",
+"Switch to the official App Store": "Пређите на званичну Апп Сторе",
+"Custom App Store": "Прилагођена продавница апликација",
+"Switch to Custom App Store": "Пређите на Цустом Апп Сторе",
+"Recently used URLs:": "Недавно коришћене УРЛ адресе:",
+"Please select...": "Молимо изаберите...",
+"Delete App Stores from History:": "Избришите продавнице апликација из историје:",
+"Remove this URL": "Уклоните ову УРЛ адресу",
+"Delete": "Избриши",
+"No previous URLs saved.": "Нема сачуваних претходних УРЛ адреса.",
+"Changed App Store & cleared all caches successfully!": "Променио Апп Сторе и успешно обрисао све кеш меморије!",
+"Error when switching App Store.": "Грешка при промени Апп Сторе-а."
+},
+"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);");

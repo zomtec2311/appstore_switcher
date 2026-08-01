@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "ಆಪ್ ಸ್ಟೋರ್ ಮೂಲವನ್ನು ಬದಲಿಸಿ",
+"Current App Store:": "ಪ್ರಸ್ತುತ ಆಪ್ ಸ್ಟೋರ್:",
+"Official": "ಅಧಿಕೃತ",
+"Cleaning Cache...": "ಸಂಗ್ರಹವನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲಾಗುತ್ತಿದೆ...",
+"{name} deleted": "{name} ಅಳಿಸಲಾಗಿದೆ",
+"Delete {name}": "{name} ಅಳಿಸಿ",
+"Media cache (discover) cleared": "(discover) ಮಾಧ್ಯಮ ಸಂಗ್ರಹವನ್ನು ತೆರವುಗೊಳಿಸಲಾಗಿದೆ",
+"Clear media cache (discover)": "(discover) ಮಾಧ್ಯಮ ಸಂಗ್ರಹವನ್ನು ತೆರವುಗೊಳಿಸಿ",
+"Official App Store": "ಅಧಿಕೃತ ಆಪ್ ಸ್ಟೋರ್",
+"Switch to the official App Store": "ಅಧಿಕೃತ ಆಪ್ ಸ್ಟೋರ್‌ಗೆ ಬದಲಿಸಿ",
+"Custom App Store": "ಕಸ್ಟಮ್ ಆಪ್ ಸ್ಟೋರ್",
+"Switch to Custom App Store": "ಕಸ್ಟಮ್ ಆಪ್ ಸ್ಟೋರ್‌ಗೆ ಬದಲಿಸಿ",
+"Recently used URLs:": "ಇತ್ತೀಚೆಗೆ ಬಳಸಿದ URL ಗಳು:",
+"Please select...": "ದಯವಿಟ್ಟು ಆಯ್ಕೆಮಾಡಿ...",
+"Delete App Stores from History:": "ಇತಿಹಾಸದಿಂದ ಆಪ್ ಸ್ಟೋರ್‌ಗಳನ್ನು ಅಳಿಸಿ:",
+"Remove this URL": "ಈ URL ಅನ್ನು ತೆಗೆದುಹಾಕಿ",
+"Delete": "ಅಳಿಸಿ",
+"No previous URLs saved.": "ಯಾವುದೇ ಹಿಂದಿನ URL ಗಳನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ.",
+"Changed App Store & cleared all caches successfully!": "ಆಪ್ ಸ್ಟೋರ್ ಅನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ ಮತ್ತು ಎಲ್ಲಾ ಸಂಗ್ರಹಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ!",
+"Error when switching App Store.": "ಆಪ್ ಸ್ಟೋರ್ ಬದಲಾಯಿಸುವಾಗ ದೋಷ."
+},"pluralForm" :"nplurals=2; plural=n > 1;"
+}

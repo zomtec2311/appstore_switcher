@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Апп дэлгүүрийн эх сурвалжийг солих",
+"Current App Store:": "Одоогийн App Store:",
+"Official": "Албан ёсны",
+"Cleaning Cache...": "Кэшийг цэвэрлэж байна...",
+"{name} deleted": "{name} устгагдсан",
+"Delete {name}": "{name}-г устгах",
+"Media cache (discover) cleared": "Медиа кэш (discover) арилсан",
+"Clear media cache (discover)": "(discover) медиа кэшийг цэвэрлэ",
+"Official App Store": "Албан ёсны App Store",
+"Switch to the official App Store": "Албан ёсны App Store руу шилжинэ үү",
+"Custom App Store": "Тусгай програмын дэлгүүр",
+"Switch to Custom App Store": "Custom App Store руу шилжих",
+"Recently used URLs:": "Саяхан ашигласан URL:",
+"Please select...": "Сонгоно уу...",
+"Delete App Stores from History:": "Програмын дэлгүүрүүдийг түүхээс устгах:",
+"Remove this URL": "Энэ URL-г устгана уу",
+"Delete": "Устгах",
+"No previous URLs saved.": "Өмнөх URL хадгалагдаагүй.",
+"Changed App Store & cleared all caches successfully!": "App Store-г өөрчилж, бүх кэшийг амжилттай устгалаа!",
+"Error when switching App Store.": "App Store руу шилжих үед алдаа гарлаа."
+},
+"nplurals=2; plural=n != 1;");

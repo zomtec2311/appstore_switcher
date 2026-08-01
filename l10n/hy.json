@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Փոխեք App Store-ի աղբյուրը",
+"Current App Store:": "Ներկայիս App Store:",
+"Official": "Պաշտոնական",
+"Cleaning Cache...": "Քեշի մաքրում...",
+"{name} deleted": "{name}-ն ջնջված է",
+"Delete {name}": "Ջնջել {name}-ն",
+"Media cache (discover) cleared": "Մեդիա քեշը (discover) մաքրվեց",
+"Clear media cache (discover)": "Մաքրել (discover) մեդիա քեշը",
+"Official App Store": "Պաշտոնական App Store",
+"Switch to the official App Store": "Անցեք պաշտոնական App Store-ին",
+"Custom App Store": "Պատվերով App Store",
+"Switch to Custom App Store": "Անցեք Custom App Store-ին",
+"Recently used URLs:": "Վերջերս օգտագործված URL-ներ.",
+"Please select...": "Խնդրում ենք ընտրել...",
+"Delete App Stores from History:": "Ջնջել App Stores-ը պատմությունից.",
+"Remove this URL": "Հեռացրեք այս URL-ը",
+"Delete": "Ջնջել",
+"No previous URLs saved.": "Նախկին URL-ներ չեն պահպանվել:",
+"Changed App Store & cleared all caches successfully!": "Փոխեց App Store-ը և հաջողությամբ մաքրեց բոլոր քեշերը:",
+"Error when switching App Store.": "Սխալ՝ App Store-ը միացնելու ժամանակ:"
+},"pluralForm" :"nplurals=2; plural=n > 1;"
+}

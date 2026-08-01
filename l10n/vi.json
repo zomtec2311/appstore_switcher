@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Chuyển nguồn App Store",
+"Current App Store:": "Cửa hàng ứng dụng hiện tại:",
+"Official": "Chính thức",
+"Cleaning Cache...": "Làm sạch bộ đệm...",
+"{name} deleted": "XYZ đã xóa",
+"Delete {name}": "Xóa XYZ",
+"Media cache (discover) cleared": "Đã xóa bộ đệm phương tiện (discover)",
+"Clear media cache (discover)": "Xóa bộ nhớ đệm phương tiện (discover)",
+"Official App Store": "Cửa hàng ứng dụng chính thức",
+"Switch to the official App Store": "Chuyển sang App Store chính thức",
+"Custom App Store": "Cửa hàng ứng dụng tùy chỉnh",
+"Switch to Custom App Store": "Chuyển sang Cửa hàng ứng dụng tùy chỉnh",
+"Recently used URLs:": "Các URL được sử dụng gần đây:",
+"Please select...": "Hãy chọn...",
+"Delete App Stores from History:": "Xóa cửa hàng ứng dụng khỏi lịch sử:",
+"Remove this URL": "Xóa URL này",
+"Delete": "Xóa bỏ",
+"No previous URLs saved.": "Không có URL trước đó được lưu.",
+"Changed App Store & cleared all caches successfully!": "Đã thay đổi App Store và xóa tất cả bộ nhớ đệm thành công!",
+"Error when switching App Store.": "Lỗi khi chuyển đổi App Store."
+},"pluralForm" :"nplurals=1; plural=0;"
+}

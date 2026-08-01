@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "App Storeソースを切り替える",
+"Current App Store:": "現在のアプリストア:",
+"Official": "正式",
+"Cleaning Cache...": "キャッシュをクリーニング中...",
+"{name} deleted": "{name}が削除されました",
+"Delete {name}": "{name}の削除",
+"Media cache (discover) cleared": "メディア キャッシュ (discover) がクリアされました",
+"Clear media cache (discover)": "メディア キャッシュ (discover) のクリア",
+"Official App Store": "公式アプリストア",
+"Switch to the official App Store": "公式App Storeに切り替える",
+"Custom App Store": "カスタム App ストア",
+"Switch to Custom App Store": "カスタム App Store に切り替える",
+"Recently used URLs:": "最近使用した URL:",
+"Please select...": "選択してください...",
+"Delete App Stores from History:": "履歴から App Store を削除:",
+"Remove this URL": "この URL を削除します",
+"Delete": "消去",
+"No previous URLs saved.": "以前の URL は保存されていません。",
+"Changed App Store & cleared all caches successfully!": "App Storeを変更し、すべてのキャッシュを正常にクリアしました。",
+"Error when switching App Store.": "App Storeを切り替えるときにエラーが発生しました。"
+},"pluralForm" :"nplurals=1; plural=0;"
+}

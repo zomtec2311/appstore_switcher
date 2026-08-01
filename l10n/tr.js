@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "App Store Kaynağını Değiştir",
+"Current App Store:": "Mevcut Uygulama Mağazası:",
+"Official": "Resmi",
+"Cleaning Cache...": "Önbellek temizleniyor...",
+"{name} deleted": "{name} deleted",
+"Delete {name}": "{name}'yı sil",
+"Media cache (discover) cleared": "Medya önbelleği (discover) temizlendi",
+"Clear media cache (discover)": "Medya önbelleğini temizle (discover)",
+"Official App Store": "Resmi Uygulama Mağazası",
+"Switch to the official App Store": "Resmi App Store'a geçin",
+"Custom App Store": "Özel Uygulama Mağazası",
+"Switch to Custom App Store": "Özel App Store'a Geçin",
+"Recently used URLs:": "Son kullanılan URL'ler:",
+"Please select...": "Lütfen seçin...",
+"Delete App Stores from History:": "App Store'ları Geçmişten Sil:",
+"Remove this URL": "Bu URL'yi kaldır",
+"Delete": "Silmek",
+"No previous URLs saved.": "Önceki URL kaydedilmedi.",
+"Changed App Store & cleared all caches successfully!": "App Store'u değiştirdi ve tüm önbellekleri başarıyla temizledi!",
+"Error when switching App Store.": "App Store'u değiştirirken hata oluştu."
+},
+"nplurals=2; plural=n != 1;");

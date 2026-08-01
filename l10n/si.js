@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "App Store මූලාශ්‍රය මාරු කරන්න",
+"Current App Store:": "වත්මන් යෙදුම් වෙළඳසැල:",
+"Official": "නිල",
+"Cleaning Cache...": "හැඹිලිය පිරිසිදු කරමින්...",
+"{name} deleted": "{name} මකා දමන ලදී",
+"Delete {name}": "{name} මකන්න",
+"Media cache (discover) cleared": "(discover) මාධ්‍ය හැඹිලිය හිස් කරන ලදී",
+"Clear media cache (discover)": "(discover) මාධ්‍ය හැඹිලිය හිස් කරන්න",
+"Official App Store": "නිල යෙදුම් වෙළඳසැල",
+"Switch to the official App Store": "නිල App Store වෙත මාරු වන්න",
+"Custom App Store": "අභිරුචි යෙදුම් වෙළඳසැල",
+"Switch to Custom App Store": "අභිරුචි යෙදුම් වෙළඳසැල වෙත මාරු වන්න",
+"Recently used URLs:": "මෑතකදී භාවිතා කළ URL:",
+"Please select...": "කරුණාකර තෝරන්න...",
+"Delete App Stores from History:": "ඉතිහාසයෙන් යෙදුම් වෙළඳසැල් මකන්න:",
+"Remove this URL": "මෙම URL එක ඉවත් කරන්න",
+"Delete": "මකන්න",
+"No previous URLs saved.": "පෙර URL කිසිවක් සුරැකී නැත.",
+"Changed App Store & cleared all caches successfully!": "යෙදුම් ගබඩාව වෙනස් කර සියලු හැඹිලි සාර්ථකව හිස් කරන ලදී!",
+"Error when switching App Store.": "App Store මාරු කිරීමේදී දෝෂයකි."
+},
+"nplurals=2; plural=n > 1;");

@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Perjunkite „App Store“ šaltinį",
+"Current App Store:": "Dabartinė „App Store“:",
+"Official": "Oficialus",
+"Cleaning Cache...": "Valoma talpykla...",
+"{name} deleted": "{name} ištrintas",
+"Delete {name}": "Ištrinti {name}",
+"Media cache (discover) cleared": "Medijos talpykla (discover) išvalyta",
+"Clear media cache (discover)": "Išvalyti medijos talpyklą (discover)",
+"Official App Store": "Oficiali App Store",
+"Switch to the official App Store": "Perjunkite į oficialią „App Store“.",
+"Custom App Store": "Pasirinktinė programų parduotuvė",
+"Switch to Custom App Store": "Perjunkite į „Custom App Store“.",
+"Recently used URLs:": "Neseniai naudoti URL:",
+"Please select...": "Prašome pasirinkti...",
+"Delete App Stores from History:": "Ištrinkite „App Stores“ iš istorijos:",
+"Remove this URL": "Pašalinkite šį URL",
+"Delete": "Ištrinti",
+"No previous URLs saved.": "Ankstesnių URL neišsaugota.",
+"Changed App Store & cleared all caches successfully!": "Pakeista App Store ir sėkmingai išvalyta visa talpykla!",
+"Error when switching App Store.": "Perjungiant „App Store“ įvyko klaida."
+},
+"nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);");

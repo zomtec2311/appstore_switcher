@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Schalt App Store Quell",
+"Current App Store:": "Aktuelle App Store:",
+"Official": "Offiziell",
+"Cleaning Cache...": "Cache botzen...",
+"{name} deleted": "{name} geläscht",
+"Delete {name}": "Läschen {name}",
+"Media cache (discover) cleared": "Media Cache (discover) geläscht",
+"Clear media cache (discover)": "Media Cache läschen (discover)",
+"Official App Store": "Offiziellen App Store",
+"Switch to the official App Store": "Wiesselt op den offiziellen App Store",
+"Custom App Store": "Benotzerdefinéiert App Store",
+"Switch to Custom App Store": "Wiesselt op Custom App Store",
+"Recently used URLs:": "Rezent benotzt URLen:",
+"Please select...": "Wielt w.e.g. ...",
+"Delete App Stores from History:": "App Stores aus der Geschicht läschen:",
+"Remove this URL": "Ewechzehuelen dës URL",
+"Delete": "Läschen",
+"No previous URLs saved.": "Keng virdrun URLen gespäichert.",
+"Changed App Store & cleared all caches successfully!": "App Store geännert an all Cache erfollegräich geläscht!",
+"Error when switching App Store.": "Feeler beim wiesselen vum App Store."
+},
+"nplurals=2; plural=n != 1;");

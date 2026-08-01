@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Cambia la sorgente dell'App Store",
+"Current App Store:": "App Store attuale:",
+"Official": "Ufficiale",
+"Cleaning Cache...": "Pulizia della cache...",
+"{name} deleted": "{name} eliminato",
+"Delete {name}": "Elimina {name}",
+"Media cache (discover) cleared": "Cache multimediale (discover) cancellata",
+"Clear media cache (discover)": "Cancella la cache multimediale (discover)",
+"Official App Store": "App Store ufficiale",
+"Switch to the official App Store": "Passa all'App Store ufficiale",
+"Custom App Store": "App Store personalizzato",
+"Switch to Custom App Store": "Passa all'App Store personalizzato",
+"Recently used URLs:": "URL utilizzati di recente:",
+"Please select...": "Seleziona...",
+"Delete App Stores from History:": "Elimina App Store dalla cronologia:",
+"Remove this URL": "Rimuovi questo URL",
+"Delete": "Eliminare",
+"No previous URLs saved.": "Nessun URL precedente salvato.",
+"Changed App Store & cleared all caches successfully!": "Modificato App Store e svuotata tutte le cache con successo!",
+"Error when switching App Store.": "Errore durante il passaggio all'App Store."
+},
+"nplurals=2; plural=(n != 1);");

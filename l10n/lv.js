@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Pārslēgt App Store avotu",
+"Current App Store:": "Pašreizējais App Store:",
+"Official": "Oficiālā",
+"Cleaning Cache...": "Notiek kešatmiņas tīrīšana...",
+"{name} deleted": "{name} izdzēsts",
+"Delete {name}": "Dzēst {name}",
+"Media cache (discover) cleared": "Multivides kešatmiņa (discover) ir notīrīta",
+"Clear media cache (discover)": "Notīrīt multivides kešatmiņu (discover)",
+"Official App Store": "Oficiālais App Store",
+"Switch to the official App Store": "Pārslēdzieties uz oficiālo App Store",
+"Custom App Store": "Pielāgots App Store",
+"Switch to Custom App Store": "Pārslēdzieties uz Custom App Store",
+"Recently used URLs:": "Nesen izmantotie URL:",
+"Please select...": "Lūdzu, atlasiet...",
+"Delete App Stores from History:": "Lietotņu veikalu dzēšana no vēstures:",
+"Remove this URL": "Noņemiet šo URL",
+"Delete": "Dzēst",
+"No previous URLs saved.": "Iepriekšējie URL nav saglabāti.",
+"Changed App Store & cleared all caches successfully!": "Mainīts App Store un veiksmīgi notīrīta visa kešatmiņa!",
+"Error when switching App Store.": "Pārslēdzot App Store radās kļūda."
+},
+"nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= 19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);");

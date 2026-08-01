@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "ئەپ دۇكىنىنىڭ مەنبەسىنى ئالماشتۇرۇش",
+"Current App Store:": "نۆۋەتتىكى ئەپ دۇكىنى:",
+"Official": "رەسمىي",
+"Cleaning Cache...": "كەش تازىلاش ...",
+"{name} deleted": "{name} ئۆچۈرۈلدى",
+"Delete {name}": "{name} نى ئۆچۈرۈڭ",
+"Media cache (discover) cleared": "مېدىيا ساقلىغۇچ (discover) تازىلاندى",
+"Clear media cache (discover)": "مېدىيا ساقلىغۇچ (discover) نى تازىلاڭ",
+"Official App Store": "رەسمىي ئەپ دۇكىنى",
+"Switch to the official App Store": "رەسمىي ئەپ دۇكىنىغا ئالماشتۇرۇڭ",
+"Custom App Store": "خاس ئەپ دۇكىنى",
+"Switch to Custom App Store": "Custom App Store غا ئالماشتۇرۇڭ",
+"Recently used URLs:": "يېقىندا ئىشلىتىلگەن URL لار:",
+"Please select...": "تاللاڭ ...",
+"Delete App Stores from History:": "ئەپ دۇكانلىرىنى تارىختىن ئۆچۈرۈڭ:",
+"Remove this URL": "بۇ URL نى ئۆچۈرۈڭ",
+"Delete": "ئۆچۈرۈش",
+"No previous URLs saved.": "ئىلگىرىكى URL لار ساقلانمىدى.",
+"Changed App Store & cleared all caches successfully!": "ئەپ دۇكىنىنى ئۆزگەرتتى ۋە بارلىق كەشلەرنى مۇۋەپپەقىيەتلىك تازىلىدى!",
+"Error when switching App Store.": "ئەپ دۇكىنىنى ئالماشتۇرغاندا خاتالىق."
+},
+"nplurals=2; plural=n != 1;");

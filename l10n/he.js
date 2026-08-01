@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "החלף מקור App Store",
+"Current App Store:": "חנות האפליקציות הנוכחית:",
+"Official": "רִשְׁמִי",
+"Cleaning Cache...": "מנקה את המטמון...",
+"{name} deleted": "{name} נמחק",
+"Delete {name}": "מחק את {name}",
+"Media cache (discover) cleared": "מטמון המדיה (discover) נוקה",
+"Clear media cache (discover)": "נקה את מטמון המדיה (discover)",
+"Official App Store": "חנות האפליקציות הרשמית",
+"Switch to the official App Store": "עבור לחנות האפליקציות הרשמית",
+"Custom App Store": "חנות אפליקציות מותאמת אישית",
+"Switch to Custom App Store": "עבור ל-Custom App Store",
+"Recently used URLs:": "כתובות URL שנעשה בהן שימוש לאחרונה:",
+"Please select...": "אנא בחר...",
+"Delete App Stores from History:": "מחק חנויות אפליקציות מההיסטוריה:",
+"Remove this URL": "הסר את כתובת האתר הזו",
+"Delete": "לִמְחוֹק",
+"No previous URLs saved.": "לא נשמרו כתובות URL קודמות.",
+"Changed App Store & cleared all caches successfully!": "שינה את חנות האפליקציות וניקה את כל המטמונים בהצלחה!",
+"Error when switching App Store.": "שגיאה בעת החלפת App Store."
+},
+"nplurals=3; plural=(n == 1) ? 0 : ((n == 2) ? 1 : 2);");

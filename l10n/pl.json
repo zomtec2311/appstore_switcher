@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Zmień źródło App Store",
+"Current App Store:": "Aktualny sklep z aplikacjami:",
+"Official": "Urzędnik",
+"Cleaning Cache...": "Czyszczenie pamięci podręcznej...",
+"{name} deleted": "{name} została usunięta",
+"Delete {name}": "Usuń {name}",
+"Media cache (discover) cleared": "Pamięć podręczna multimediów (discover) została wyczyszczona",
+"Clear media cache (discover)": "Wyczyść pamięć podręczną multimediów (discover)",
+"Official App Store": "Oficjalny sklep z aplikacjami",
+"Switch to the official App Store": "Przejdź do oficjalnego App Store",
+"Custom App Store": "Niestandardowy sklep z aplikacjami",
+"Switch to Custom App Store": "Przejdź do niestandardowego sklepu z aplikacjami",
+"Recently used URLs:": "Ostatnio używane adresy URL:",
+"Please select...": "Proszę wybrać...",
+"Delete App Stores from History:": "Usuń sklepy z aplikacjami z historii:",
+"Remove this URL": "Usuń ten adres URL",
+"Delete": "Usuwać",
+"No previous URLs saved.": "Nie zapisano żadnych poprzednich adresów URL.",
+"Changed App Store & cleared all caches successfully!": "Zmieniono App Store i pomyślnie wyczyszczono wszystkie pamięci podręczne!",
+"Error when switching App Store.": "Błąd podczas przełączania App Store."
+},"pluralForm" :"nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);"
+}

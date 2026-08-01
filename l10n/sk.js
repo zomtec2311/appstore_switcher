@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Prepnite zdroj App Store",
+"Current App Store:": "Aktuálny App Store:",
+"Official": "Oficiálne",
+"Cleaning Cache...": "Čistenie vyrovnávacej pamäte...",
+"{name} deleted": "{name} vymazané",
+"Delete {name}": "Odstrániť {name}",
+"Media cache (discover) cleared": "Vyrovnávacia pamäť médií (discover) bola vymazaná",
+"Clear media cache (discover)": "Vymažte vyrovnávaciu pamäť médií (discover)",
+"Official App Store": "Oficiálny App Store",
+"Switch to the official App Store": "Prejdite na oficiálny App Store",
+"Custom App Store": "Vlastný obchod s aplikáciami",
+"Switch to Custom App Store": "Prepnite na Custom App Store",
+"Recently used URLs:": "Nedávno použité adresy URL:",
+"Please select...": "Prosím, vyberte...",
+"Delete App Stores from History:": "Odstrániť App Store z histórie:",
+"Remove this URL": "Odstráňte túto adresu URL",
+"Delete": "Odstrániť",
+"No previous URLs saved.": "Nie sú uložené žiadne predchádzajúce adresy URL.",
+"Changed App Store & cleared all caches successfully!": "Changed App Store & cleared all caches successfully!",
+"Error when switching App Store.": "Chyba pri prepínaní App Store."
+},
+"nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);");

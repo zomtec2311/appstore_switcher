@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "შეცვალეთ App Store-ის წყარო",
+"Current App Store:": "ამჟამინდელი App Store:",
+"Official": "ოფიციალური",
+"Cleaning Cache...": "ქეშის გაწმენდა...",
+"{name} deleted": "{name} წაიშალა",
+"Delete {name}": "წაშალეთ {name}",
+"Media cache (discover) cleared": "მედია ქეში (discover) გასუფთავდა",
+"Clear media cache (discover)": "გაასუფთავეთ მედია ქეში (discover)",
+"Official App Store": "ოფიციალური აპლიკაციების მაღაზია",
+"Switch to the official App Store": "გადაერთეთ ოფიციალურ App Store-ზე",
+"Custom App Store": "Custom App Store",
+"Switch to Custom App Store": "გადართეთ Custom App Store-ზე",
+"Recently used URLs:": "ბოლო დროს გამოყენებული URL-ები:",
+"Please select...": "გთხოვთ, აირჩიოთ...",
+"Delete App Stores from History:": "წაშალეთ App Stores ისტორიიდან:",
+"Remove this URL": "წაშალეთ ეს URL",
+"Delete": "წაშლა",
+"No previous URLs saved.": "წინა URL შენახული არ არის.",
+"Changed App Store & cleared all caches successfully!": "შეიცვალა App Store და წარმატებით გაასუფთავეს ყველა ქეში!",
+"Error when switching App Store.": "შეცდომა App Store-ის გადართვისას."
+},
+"nplurals=2; plural=n != 1;");

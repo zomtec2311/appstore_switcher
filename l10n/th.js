@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "สลับแหล่งที่มาของ App Store",
+"Current App Store:": "แอพสโตร์ปัจจุบัน:",
+"Official": "เป็นทางการ",
+"Cleaning Cache...": "กำลังล้างแคช...",
+"{name} deleted": "{name} ลบแล้ว",
+"Delete {name}": "ลบ {name}",
+"Media cache (discover) cleared": "ล้างแคชสื่อ (discover) แล้ว",
+"Clear media cache (discover)": "ล้างแคชสื่อ (discover)",
+"Official App Store": "แอพสโตร์อย่างเป็นทางการ",
+"Switch to the official App Store": "เปลี่ยนไปใช้ App Store อย่างเป็นทางการ",
+"Custom App Store": "App Store แบบกำหนดเอง",
+"Switch to Custom App Store": "สลับไปที่ App Store แบบกำหนดเอง",
+"Recently used URLs:": "URL ที่ใช้ล่าสุด:",
+"Please select...": "กรุณาเลือก...",
+"Delete App Stores from History:": "ลบ App Store ออกจากประวัติ:",
+"Remove this URL": "ลบ URL นี้",
+"Delete": "ลบ",
+"No previous URLs saved.": "ไม่มีการบันทึก URL ก่อนหน้า",
+"Changed App Store & cleared all caches successfully!": "เปลี่ยน App Store และล้างแคชทั้งหมดสำเร็จแล้ว!",
+"Error when switching App Store.": "เกิดข้อผิดพลาดเมื่อเปลี่ยน App Store"
+},
+"nplurals=1; plural=0;");

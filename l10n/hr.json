@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Promijeni App Store izvor",
+"Current App Store:": "Trenutačna trgovina aplikacija:",
+"Official": "Službenik",
+"Cleaning Cache...": "Čišćenje predmemorije...",
+"{name} deleted": "{name} izbrisana",
+"Delete {name}": "Izbriši {name}",
+"Media cache (discover) cleared": "Medijska predmemorija (discover) očišćena",
+"Clear media cache (discover)": "Očisti medijsku predmemoriju (discover)",
+"Official App Store": "Službena trgovina aplikacija",
+"Switch to the official App Store": "Prijeđite na službeni App Store",
+"Custom App Store": "Custom App Store",
+"Switch to Custom App Store": "Prijeđite na Custom App Store",
+"Recently used URLs:": "Nedavno korišteni URL-ovi:",
+"Please select...": "Odaberite...",
+"Delete App Stores from History:": "Brisanje trgovina aplikacija iz povijesti:",
+"Remove this URL": "Ukloni ovaj URL",
+"Delete": "Izbrisati",
+"No previous URLs saved.": "Nema spremljenih prethodnih URL-ova.",
+"Changed App Store & cleared all caches successfully!": "Promijenio App Store i uspješno izbrisao sve predmemorije!",
+"Error when switching App Store.": "Pogreška prilikom promjene App Storea."
+},"pluralForm" :"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);"
+}

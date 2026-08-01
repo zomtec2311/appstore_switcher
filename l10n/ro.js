@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Schimbați sursa App Store",
+"Current App Store:": "Magazinul de aplicații actual:",
+"Official": "Oficial",
+"Cleaning Cache...": "Curățarea memoriei cache...",
+"{name} deleted": "{name} a fost șters",
+"Delete {name}": "Ștergeți {name}",
+"Media cache (discover) cleared": "Cache media (discover) a fost șters",
+"Clear media cache (discover)": "Ștergeți memoria cache media (discover)",
+"Official App Store": "Magazinul oficial de aplicații",
+"Switch to the official App Store": "Comutați la App Store oficial",
+"Custom App Store": "Magazin de aplicații personalizat",
+"Switch to Custom App Store": "Comutați la Magazinul de aplicații personalizat",
+"Recently used URLs:": "Adrese URL utilizate recent:",
+"Please select...": "Vă rugăm să selectați...",
+"Delete App Stores from History:": "Ștergeți App Stores din istoric:",
+"Remove this URL": "Eliminați această adresă URL",
+"Delete": "Şterge",
+"No previous URLs saved.": "Nu au fost salvate adrese URL anterioare.",
+"Changed App Store & cleared all caches successfully!": "S-a schimbat App Store și am șters toate cache-urile cu succes!",
+"Error when switching App Store.": "Eroare la schimbarea App Store."
+},
+"nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n != 1 && n % 100 >= 1 && n % 100 <= 19) ? 1 : 2);");

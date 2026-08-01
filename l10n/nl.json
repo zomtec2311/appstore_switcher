@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Wijzig de App Store-bron",
+"Current App Store:": "Huidige App Store:",
+"Official": "Officieel",
+"Cleaning Cache...": "Cache opschonen...",
+"{name} deleted": "{name} verwijderd",
+"Delete {name}": "{name} verwijderen",
+"Media cache (discover) cleared": "Mediacache (discover) gewist",
+"Clear media cache (discover)": "Wis mediacache (discover)",
+"Official App Store": "Officiële App Store",
+"Switch to the official App Store": "Schakel over naar de officiële App Store",
+"Custom App Store": "Aangepaste App Store",
+"Switch to Custom App Store": "Schakel over naar de aangepaste App Store",
+"Recently used URLs:": "Recent gebruikte URL's:",
+"Please select...": "Selecteer alstublieft...",
+"Delete App Stores from History:": "Verwijder App Stores uit de geschiedenis:",
+"Remove this URL": "Verwijder deze URL",
+"Delete": "Verwijderen",
+"No previous URLs saved.": "Geen eerdere URL's opgeslagen.",
+"Changed App Store & cleared all caches successfully!": "App Store gewijzigd en alle caches met succes gewist!",
+"Error when switching App Store.": "Fout bij het wisselen van App Store."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

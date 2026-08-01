@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Preklopi vir App Store",
+"Current App Store:": "Trenutna trgovina z aplikacijami:",
+"Official": "Uradno",
+"Cleaning Cache...": "Čiščenje predpomnilnika ...",
+"{name} deleted": "{name} izbrisana",
+"Delete {name}": "Izbriši {name}",
+"Media cache (discover) cleared": "Medijski predpomnilnik (discover) je počiščen",
+"Clear media cache (discover)": "Počisti medijski predpomnilnik (discover)",
+"Official App Store": "Uradna trgovina z aplikacijami",
+"Switch to the official App Store": "Preklopite na uradno trgovino App Store",
+"Custom App Store": "Trgovina z aplikacijami po meri",
+"Switch to Custom App Store": "Preklopite na Custom App Store",
+"Recently used URLs:": "Nedavno uporabljeni URL-ji:",
+"Please select...": "Prosim izberite ...",
+"Delete App Stores from History:": "Izbriši App Store iz zgodovine:",
+"Remove this URL": "Odstranite ta URL",
+"Delete": "Izbriši",
+"No previous URLs saved.": "Ni shranjenih prejšnjih URL-jev.",
+"Changed App Store & cleared all caches successfully!": "Spremenjen App Store in uspešno izbrisani vsi predpomnilniki!",
+"Error when switching App Store.": "Napaka pri preklopu App Store."
+},
+"nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));");

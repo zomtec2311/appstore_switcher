@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Byt App Store-källa",
+"Current App Store:": "Nuvarande App Store:",
+"Official": "Officiell",
+"Cleaning Cache...": "Rensar cache...",
+"{name} deleted": "{name} raderad",
+"Delete {name}": "Ta bort {name}",
+"Media cache (discover) cleared": "Mediacachen (discover) rensades",
+"Clear media cache (discover)": "Rensa mediacache (discover)",
+"Official App Store": "Officiell App Store",
+"Switch to the official App Store": "Byt till den officiella App Store",
+"Custom App Store": "Anpassad App Store",
+"Switch to Custom App Store": "Byt till Custom App Store",
+"Recently used URLs:": "Senast använda webbadresser:",
+"Please select...": "Vänligen välj...",
+"Delete App Stores from History:": "Ta bort App Stores från historiken:",
+"Remove this URL": "Ta bort denna URL",
+"Delete": "Radera",
+"No previous URLs saved.": "Inga tidigare webbadresser sparade.",
+"Changed App Store & cleared all caches successfully!": "Ändrade App Store och rensade alla cachar framgångsrikt!",
+"Error when switching App Store.": "Fel vid byte av App Store."
+},
+"nplurals=2; plural=n != 1;");

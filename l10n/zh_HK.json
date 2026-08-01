@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "切換應用程式商店來源",
+"Current App Store:": "目前應用程式商店：",
+"Official": "官方的",
+"Cleaning Cache...": "清理快取...",
+"{name} deleted": "{name} 已刪除",
+"Delete {name}": "刪除 {name}",
+"Media cache (discover) cleared": "媒體快取 (discover) 已清除",
+"Clear media cache (discover)": "清除媒體快取 (discover)",
+"Official App Store": "官方應用程式商店",
+"Switch to the official App Store": "切換至官方應用程式商店",
+"Custom App Store": "客製化應用程式商店",
+"Switch to Custom App Store": "切換到自訂應用程式商店",
+"Recently used URLs:": "最近使用的網址：",
+"Please select...": "請選擇...",
+"Delete App Stores from History:": "從歷史記錄中刪除應用程式商店：",
+"Remove this URL": "刪除此網址",
+"Delete": "刪除",
+"No previous URLs saved.": "沒有儲存先前的 URL。",
+"Changed App Store & cleared all caches successfully!": "更改App Store並成功清除所有快取！",
+"Error when switching App Store.": "切換App Store時發生錯誤。"
+},"pluralForm" :"nplurals=1; plural=0;"
+}

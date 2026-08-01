@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Az App Store forrásának váltása",
+"Current App Store:": "Jelenlegi App Store:",
+"Official": "Hivatalos",
+"Cleaning Cache...": "Gyorsítótár tisztítása...",
+"{name} deleted": "{name} törölve",
+"Delete {name}": "{name} törlése",
+"Media cache (discover) cleared": "Az (discover) médiagyorsítótár törölve",
+"Clear media cache (discover)": "Törölje az (discover) média-gyorsítótárat",
+"Official App Store": "Hivatalos App Store",
+"Switch to the official App Store": "Váltson a hivatalos App Store-ra",
+"Custom App Store": "Egyedi App Store",
+"Switch to Custom App Store": "Váltson az Egyéni App Store-ra",
+"Recently used URLs:": "Nemrég használt URL-ek:",
+"Please select...": "Kérjük, válasszon...",
+"Delete App Stores from History:": "Az App Store-ok törlése az előzményekből:",
+"Remove this URL": "Távolítsa el ezt az URL-t",
+"Delete": "Töröl",
+"No previous URLs saved.": "Nincsenek mentett korábbi URL-ek.",
+"Changed App Store & cleared all caches successfully!": "Megváltoztatta az App Store-t, és sikeresen törölte az összes gyorsítótárat!",
+"Error when switching App Store.": "Hiba az App Store váltáskor."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

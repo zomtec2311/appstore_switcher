@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Ganti Sumber App Store",
+"Current App Store:": "Toko Aplikasi Saat Ini:",
+"Official": "Resmi",
+"Cleaning Cache...": "Membersihkan Cache...",
+"{name} deleted": "{name} dihapus",
+"Delete {name}": "Hapus {name}",
+"Media cache (discover) cleared": "Cache media (discover) dibersihkan",
+"Clear media cache (discover)": "Hapus cache media (discover)",
+"Official App Store": "Toko Aplikasi Resmi",
+"Switch to the official App Store": "Beralih ke App Store resmi",
+"Custom App Store": "Toko Aplikasi Kustom",
+"Switch to Custom App Store": "Beralih ke Toko Aplikasi Khusus",
+"Recently used URLs:": "URL yang baru-baru ini digunakan:",
+"Please select...": "Silakan pilih...",
+"Delete App Stores from History:": "Hapus App Store dari Riwayat:",
+"Remove this URL": "Hapus URL ini",
+"Delete": "Menghapus",
+"No previous URLs saved.": "Tidak ada URL sebelumnya yang disimpan.",
+"Changed App Store & cleared all caches successfully!": "Mengubah App Store & berhasil membersihkan semua cache!",
+"Error when switching App Store.": "Kesalahan saat berpindah App Store."
+},"pluralForm" :"nplurals=1; plural=0;"
+}

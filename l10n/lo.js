@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "ປ່ຽນແຫຼ່ງ App Store",
+"Current App Store:": "App Store ປະຈຸບັນ:",
+"Official": "ທາງການ",
+"Cleaning Cache...": "ກຳລັງທຳຄວາມສະອາດ Cache...",
+"{name} deleted": "ລຶບ {name} ແລ້ວ",
+"Delete {name}": "ລຶບ {name}",
+"Media cache (discover) cleared": "ແຄດມີເດຍ (discover) ຖືກລຶບລ້າງແລ້ວ",
+"Clear media cache (discover)": "ລ້າງແຄດມີເດຍ (discover)",
+"Official App Store": "App Store ຢ່າງເປັນທາງການ",
+"Switch to the official App Store": "ປ່ຽນໄປຫາ App Store ຢ່າງເປັນທາງການ",
+"Custom App Store": "Custom App Store",
+"Switch to Custom App Store": "ປ່ຽນເປັນ Custom App Store",
+"Recently used URLs:": "URL ທີ່ໃຊ້ຫຼ້າສຸດ:",
+"Please select...": "ກະລຸນາເລືອກ...",
+"Delete App Stores from History:": "ລຶບ App Stores ຈາກປະຫວັດ:",
+"Remove this URL": "ເອົາ URL ນີ້ອອກ",
+"Delete": "ລຶບ",
+"No previous URLs saved.": "ບໍ່ມີ URL ທີ່ຜ່ານມາຖືກບັນທຶກໄວ້.",
+"Changed App Store & cleared all caches successfully!": "ປ່ຽນ App Store ແລະລຶບລ້າງແຄສທັງໝົດສຳເລັດແລ້ວ!",
+"Error when switching App Store.": "ຜິດພາດໃນເວລາປ່ຽນ App Store."
+},
+"nplurals=1; plural=0;");

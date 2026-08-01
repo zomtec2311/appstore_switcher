@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Skiptu um uppruna App Store",
+"Current App Store:": "Núverandi App Store:",
+"Official": "Opinber",
+"Cleaning Cache...": "Hreinsar skyndiminni...",
+"{name} deleted": "{name} eytt",
+"Delete {name}": "Eyða {name}",
+"Media cache (discover) cleared": "Skyndiminni (discover) hreinsað",
+"Clear media cache (discover)": "Hreinsaðu skyndiminni (discover)",
+"Official App Store": "Opinber App Store",
+"Switch to the official App Store": "Skiptu yfir í opinberu App Store",
+"Custom App Store": "Sérsniðin App Store",
+"Switch to Custom App Store": "Skiptu yfir í Custom App Store",
+"Recently used URLs:": "Nýlega notaðar vefslóðir:",
+"Please select...": "Vinsamlegast veldu...",
+"Delete App Stores from History:": "Eyða App Stores úr sögunni:",
+"Remove this URL": "Fjarlægðu þessa vefslóð",
+"Delete": "Eyða",
+"No previous URLs saved.": "Engar fyrri vefslóðir vistaðar.",
+"Changed App Store & cleared all caches successfully!": "Breytti App Store og hreinsaði öll skyndiminni með góðum árangri!",
+"Error when switching App Store.": "Villa þegar skipt var um App Store."
+},"pluralForm" :"nplurals=2; plural=n % 10 != 1 || n % 100 == 11;"
+}

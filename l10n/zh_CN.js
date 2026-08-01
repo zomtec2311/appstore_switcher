@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "切换应用商店源",
+"Current App Store:": "当前应用商店：",
+"Official": "官方的",
+"Cleaning Cache...": "清理缓存...",
+"{name} deleted": "{name} 已删除",
+"Delete {name}": "删除 {name}",
+"Media cache (discover) cleared": "媒体缓存 (discover) 已清除",
+"Clear media cache (discover)": "清除媒体缓存 (discover)",
+"Official App Store": "官方应用商店",
+"Switch to the official App Store": "切换至官方应用商店",
+"Custom App Store": "定制应用商店",
+"Switch to Custom App Store": "切换到自定义应用商店",
+"Recently used URLs:": "最近使用的网址：",
+"Please select...": "请选择...",
+"Delete App Stores from History:": "从历史记录中删除应用商店：",
+"Remove this URL": "删除此网址",
+"Delete": "删除",
+"No previous URLs saved.": "没有保存以前的 URL。",
+"Changed App Store & cleared all caches successfully!": "更改App Store并成功清除所有缓存！",
+"Error when switching App Store.": "切换App Store时出错。"
+},
+"nplurals=1; plural=0;");

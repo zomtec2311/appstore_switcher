@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Змінити джерело App Store",
+"Current App Store:": "Поточний магазин додатків:",
+"Official": "Офіційний",
+"Cleaning Cache...": "Очищення кешу...",
+"{name} deleted": "{name} видалено",
+"Delete {name}": "Видалити {name}",
+"Media cache (discover) cleared": "Медіа-кеш (discover) очищено",
+"Clear media cache (discover)": "Очистити медіа-кеш (discover)",
+"Official App Store": "Офіційний магазин додатків",
+"Switch to the official App Store": "Перейдіть в офіційний App Store",
+"Custom App Store": "Custom App Store",
+"Switch to Custom App Store": "Перейдіть до Custom App Store",
+"Recently used URLs:": "Нещодавно використані URL-адреси:",
+"Please select...": "Виберіть...",
+"Delete App Stores from History:": "Видалити App Store з історії:",
+"Remove this URL": "Видаліть цю URL-адресу",
+"Delete": "Видалити",
+"No previous URLs saved.": "Немає попередніх URL-адрес.",
+"Changed App Store & cleared all caches successfully!": "Змінено App Store і успішно очищено всі кеші!",
+"Error when switching App Store.": "Помилка під час перемикання App Store."
+},"pluralForm" :"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);"
+}

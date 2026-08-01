@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Переключить источник App Store",
+"Current App Store:": "Текущий магазин приложений:",
+"Official": "Официальный",
+"Cleaning Cache...": "Очистка кэша...",
+"{name} deleted": "{name} удалено",
+"Delete {name}": "Удалить {name}",
+"Media cache (discover) cleared": "Медиа-кеш (discover) очищен.",
+"Clear media cache (discover)": "Очистить медиа-кеш (discover)",
+"Official App Store": "Официальный магазин приложений",
+"Switch to the official App Store": "Перейдите в официальный магазин приложений",
+"Custom App Store": "Пользовательский магазин приложений",
+"Switch to Custom App Store": "Переключиться на собственный магазин приложений",
+"Recently used URLs:": "Недавно использованные URL-адреса:",
+"Please select...": "Пожалуйста, выберите...",
+"Delete App Stores from History:": "Удалить магазины приложений из истории:",
+"Remove this URL": "Удалить этот URL",
+"Delete": "Удалить",
+"No previous URLs saved.": "Предыдущие URL-адреса не сохранены.",
+"Changed App Store & cleared all caches successfully!": "Изменен App Store и успешно очищены все кеши!",
+"Error when switching App Store.": "Ошибка при переключении App Store."
+},
+"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);");

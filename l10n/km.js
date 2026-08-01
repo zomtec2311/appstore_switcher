@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "ប្តូរប្រភព App Store",
+"Current App Store:": "App Store បច្ចុប្បន្ន៖",
+"Official": "ផ្លូវការ",
+"Cleaning Cache...": "កំពុងសម្អាតឃ្លាំងសម្ងាត់...",
+"{name} deleted": "{name} ត្រូវបានលុប",
+"Delete {name}": "លុប {name}",
+"Media cache (discover) cleared": "ឃ្លាំងសម្ងាត់ប្រព័ន្ធផ្សព្វផ្សាយ (discover) ត្រូវបានសម្អាត",
+"Clear media cache (discover)": "សម្អាតឃ្លាំងសម្ងាត់ប្រព័ន្ធផ្សព្វផ្សាយ (discover)",
+"Official App Store": "ហាងកម្មវិធីផ្លូវការ",
+"Switch to the official App Store": "ប្តូរទៅ App Store ផ្លូវការ",
+"Custom App Store": "ហាងកម្មវិធីផ្ទាល់ខ្លួន",
+"Switch to Custom App Store": "ប្តូរទៅហាងកម្មវិធីផ្ទាល់ខ្លួន",
+"Recently used URLs:": "URL ដែល​បាន​ប្រើ​ថ្មីៗ​នេះ៖",
+"Please select...": "សូមជ្រើសរើស...",
+"Delete App Stores from History:": "លុប App Stores ពីប្រវត្តិ៖",
+"Remove this URL": "លុប URL នេះចេញ",
+"Delete": "លុប",
+"No previous URLs saved.": "គ្មាន URLs ពីមុនត្រូវបានរក្សាទុកទេ។",
+"Changed App Store & cleared all caches successfully!": "បានផ្លាស់ប្តូរ App Store និងសម្អាតឃ្លាំងសម្ងាត់ទាំងអស់ដោយជោគជ័យ!",
+"Error when switching App Store.": "កំហុសនៅពេលប្តូរ App Store ។"
+},
+"nplurals=1; plural=0;");
