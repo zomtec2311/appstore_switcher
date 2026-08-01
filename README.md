@@ -19,7 +19,7 @@ Switch between official and custom app stores
 ## ⚙️ Usage
 
 - It is recommended to download or install this app directly from the [Nextcloud App store](https://apps.nextcloud.com/apps/appstore_switcher).
-- Alternatively you can download the [latest admincockpit release](https://github.com/zomtec2311/appstore_switcher/releases) based on this repository.
+- Alternatively you can download the [latest appstore_switcher release](https://github.com/zomtec2311/appstore_switcher/releases) based on this repository.
 
 ## 💡 F.A.Q.
 
