@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Verander App Store-bron",
+"Current App Store:": "Huidige App Store:",
+"Official": "Amptelik",
+"Cleaning Cache...": "Maak tans kas skoon …",
+"{name} deleted": "{name} uitgevee",
+"Delete {name}": "Vee {name} uit",
+"Media cache (discover) cleared": "Mediakas (discover) is skoongemaak",
+"Clear media cache (discover)": "Vee mediakas (discover) uit",
+"Official App Store": "Amptelike App Store",
+"Switch to the official App Store": "Skakel oor na die amptelike App Store",
+"Custom App Store": "Pasgemaakte App Store",
+"Switch to Custom App Store": "Skakel oor na Custom App Store",
+"Recently used URLs:": "Onlangs gebruikte URL's:",
+"Please select...": "Kies asseblief...",
+"Delete App Stores from History:": "Vee App Stores uit Geskiedenis uit:",
+"Remove this URL": "Verwyder hierdie URL",
+"Delete": "Vee uit",
+"No previous URLs saved.": "Geen vorige URL's gestoor nie.",
+"Changed App Store & cleared all caches successfully!": "Het App Store verander en alle caches suksesvol skoongemaak!",
+"Error when switching App Store.": "Fout met die oorskakeling van App Store."
+},
+"nplurals=2; plural=n != 1;");

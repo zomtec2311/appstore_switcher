@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Ŝanĝi App Store Fonto",
+"Current App Store:": "Nuna App Store:",
+"Official": "Oficiala",
+"Cleaning Cache...": "Purigante kaŝmemoron...",
+"{name} deleted": "{name} forigita",
+"Delete {name}": "Forigi {name}",
+"Media cache (discover) cleared": "Media kaŝmemoro (discover) malplenigita",
+"Clear media cache (discover)": "Malplenigi amaskomunikilan kaŝmemoron (discover)",
+"Official App Store": "Oficiala App Store",
+"Switch to the official App Store": "Ŝanĝu al la oficiala App Store",
+"Custom App Store": "Propra App Store",
+"Switch to Custom App Store": "Ŝanĝu al Propra App Store",
+"Recently used URLs:": "Lastatempe uzataj URL-oj:",
+"Please select...": "Bonvolu elekti...",
+"Delete App Stores from History:": "Forigi App Stores de Historio:",
+"Remove this URL": "Forigu ĉi tiun URL",
+"Delete": "Forigi",
+"No previous URLs saved.": "Neniuj antaŭaj URL-oj konservitaj.",
+"Changed App Store & cleared all caches successfully!": "Ŝanĝis App Store kaj purigis ĉiujn kaŝmemorojn sukcese!",
+"Error when switching App Store.": "Eraro dum ŝanĝado de App Store."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

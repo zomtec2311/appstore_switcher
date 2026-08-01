@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Athraigh Foinse App Store",
+"Current App Store:": "App Store Reatha:",
+"Official": "oifigeach",
+"Cleaning Cache...": "Taisce á Glanadh...",
+"{name} deleted": "Scriosadh {name}",
+"Delete {name}": "Scrios {name}",
+"Media cache (discover) cleared": "Glanadh taisce meán (discover)",
+"Clear media cache (discover)": "Glan taisce meán (discover)",
+"Official App Store": "App store oifigiúil",
+"Switch to the official App Store": "Téigh go dtí an App Store oifigiúil",
+"Custom App Store": "Saincheaptha App Store",
+"Switch to Custom App Store": "Téigh go dtí an Custom App Store",
+"Recently used URLs:": "URLanna a úsáideadh le déanaí:",
+"Please select...": "Roghnaigh le do thoil...",
+"Delete App Stores from History:": "Scrios App Stores ón Stair:",
+"Remove this URL": "Bain an URL seo",
+"Delete": "Scrios",
+"No previous URLs saved.": "Níor sábháladh aon URL roimhe seo.",
+"Changed App Store & cleared all caches successfully!": "Athraíodh an App Store & d'éirigh le gach taisce a ghlanadh!",
+"Error when switching App Store.": "Earráid agus an App Store á athrú."
+},
+"nplurals=5; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n >= 3 && n <= 6) ? 2 : ((n >= 7 && n <= 10) ? 3 : 4)));");

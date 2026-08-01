@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "تبديل مصدر متجر التطبيقات",
+"Current App Store:": "متجر التطبيقات الحالي:",
+"Official": "رسمي",
+"Cleaning Cache...": "تنظيف ذاكرة التخزين المؤقت...",
+"{name} deleted": "تم حذف {name}",
+"Delete {name}": "حذف {name}",
+"Media cache (discover) cleared": "تم مسح ذاكرة التخزين المؤقت للوسائط (discover)",
+"Clear media cache (discover)": "مسح ذاكرة التخزين المؤقت للوسائط (discover)",
+"Official App Store": "متجر التطبيقات الرسمي",
+"Switch to the official App Store": "قم بالتبديل إلى متجر التطبيقات الرسمي",
+"Custom App Store": "متجر التطبيقات المخصصة",
+"Switch to Custom App Store": "قم بالتبديل إلى متجر التطبيقات المخصص",
+"Recently used URLs:": "عناوين URL المستخدمة مؤخرًا:",
+"Please select...": "الرجاء التحديد...",
+"Delete App Stores from History:": "حذف متاجر التطبيقات من السجل:",
+"Remove this URL": "قم بإزالة عنوان URL هذا",
+"Delete": "يمسح",
+"No previous URLs saved.": "لم يتم حفظ أي عناوين URL سابقة.",
+"Changed App Store & cleared all caches successfully!": "تم تغيير متجر التطبيقات ومسح جميع ذاكرات التخزين المؤقت بنجاح!",
+"Error when switching App Store.": "حدث خطأ عند تبديل متجر التطبيقات."
+},"pluralForm" :"nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));"
+}

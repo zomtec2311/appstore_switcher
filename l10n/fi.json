@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Vaihda App Storen lähdettä",
+"Current App Store:": "Nykyinen App Store:",
+"Official": "Virallinen",
+"Cleaning Cache...": "Puhdistetaan välimuistia...",
+"{name} deleted": "{name} poistettu",
+"Delete {name}": "Poista {name}",
+"Media cache (discover) cleared": "Mediavälimuisti (discover) tyhjennetty",
+"Clear media cache (discover)": "Tyhjennä mediavälimuisti (discover)",
+"Official App Store": "Virallinen App Store",
+"Switch to the official App Store": "Vaihda viralliseen App Storeen",
+"Custom App Store": "Mukautettu App Store",
+"Switch to Custom App Store": "Vaihda Custom App Storeen",
+"Recently used URLs:": "Äskettäin käytetyt URL-osoitteet:",
+"Please select...": "Ole hyvä ja valitse...",
+"Delete App Stores from History:": "Poista App Storet historiasta:",
+"Remove this URL": "Poista tämä URL-osoite",
+"Delete": "Poistaa",
+"No previous URLs saved.": "Aiempia URL-osoitteita ei ole tallennettu.",
+"Changed App Store & cleared all caches successfully!": "App Storea vaihdettiin ja kaikki välimuistit tyhjennettiin onnistuneesti!",
+"Error when switching App Store.": "Virhe vaihdettaessa App Storea."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

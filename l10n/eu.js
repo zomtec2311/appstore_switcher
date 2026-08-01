@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Aldatu App Store iturburua",
+"Current App Store:": "Uneko App Store:",
+"Official": "Ofiziala",
+"Cleaning Cache...": "Cachea garbitzen...",
+"{name} deleted": "{name} ezabatu da",
+"Delete {name}": "Ezabatu {name}",
+"Media cache (discover) cleared": "(discover) multimedia-cachea garbitu da",
+"Clear media cache (discover)": "Garbitu multimedia-cachea (discover)",
+"Official App Store": "App Store ofiziala",
+"Switch to the official App Store": "Aldatu App Store ofizialera",
+"Custom App Store": "Aplikazio-denda pertsonalizatua",
+"Switch to Custom App Store": "Aldatu App Store pertsonalizatura",
+"Recently used URLs:": "Azkenaldian erabilitako URLak:",
+"Please select...": "Mesedez, hautatu...",
+"Delete App Stores from History:": "Ezabatu App Stores historiatik:",
+"Remove this URL": "Kendu URL hau",
+"Delete": "Ezabatu",
+"No previous URLs saved.": "Ez da aurreko URLrik gorde.",
+"Changed App Store & cleared all caches successfully!": "App Store aldatu eta cache guztiak behar bezala garbitu dira!",
+"Error when switching App Store.": "Errore bat gertatu da App Store aldatzean."
+},
+"nplurals=2; plural=n != 1;");

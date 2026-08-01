@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "منبع فروشگاه App را تغییر دهید",
+"Current App Store:": "اپ استور فعلی:",
+"Official": "رسمی",
+"Cleaning Cache...": "پاک کردن کش...",
+"{name} deleted": "{name} حذف شد",
+"Delete {name}": "{name} را حذف کنید",
+"Media cache (discover) cleared": "حافظه پنهان رسانه (discover) پاک شد",
+"Clear media cache (discover)": "حافظه پنهان رسانه (discover) را پاک کنید",
+"Official App Store": "اپ استور رسمی",
+"Switch to the official App Store": "به اپ استور رسمی بروید",
+"Custom App Store": "فروشگاه برنامه سفارشی",
+"Switch to Custom App Store": "به اپ استور سفارشی بروید",
+"Recently used URLs:": "URL های اخیرا استفاده شده:",
+"Please select...": "لطفا انتخاب کنید...",
+"Delete App Stores from History:": "حذف اپ استور از تاریخچه:",
+"Remove this URL": "این URL را حذف کنید",
+"Delete": "حذف کنید",
+"No previous URLs saved.": "هیچ URL قبلی ذخیره نشده است.",
+"Changed App Store & cleared all caches successfully!": "فروشگاه App تغییر کرد و تمام کش ها با موفقیت پاک شد!",
+"Error when switching App Store.": "خطا هنگام تعویض App Store."
+},
+"nplurals=2; plural=n > 1;");

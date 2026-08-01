@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Přepnout zdroj App Store",
+"Current App Store:": "Aktuální App Store:",
+"Official": "Oficiální",
+"Cleaning Cache...": "Čištění mezipaměti...",
+"{name} deleted": "{name} smazáno",
+"Delete {name}": "Smazat {name}",
+"Media cache (discover) cleared": "Mezipaměť médií (discover) byla vymazána",
+"Clear media cache (discover)": "Vymažte mezipaměť médií (discover)",
+"Official App Store": "Oficiální App Store",
+"Switch to the official App Store": "Přejděte na oficiální App Store",
+"Custom App Store": "Vlastní App Store",
+"Switch to Custom App Store": "Přepněte na Custom App Store",
+"Recently used URLs:": "Nedávno použité adresy URL:",
+"Please select...": "Vyberte prosím...",
+"Delete App Stores from History:": "Smazat App Store z historie:",
+"Remove this URL": "Odeberte tuto adresu URL",
+"Delete": "Vymazat",
+"No previous URLs saved.": "Nebyly uloženy žádné předchozí adresy URL.",
+"Changed App Store & cleared all caches successfully!": "Změněn App Store a úspěšně vymazány všechny mezipaměti!",
+"Error when switching App Store.": "Chyba při přepínání App Store."
+},"pluralForm" :"nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);"
+}

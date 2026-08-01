@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Changer la source de l'App Store",
+"Current App Store:": "Magasin d'applications actuel :",
+"Official": "Officiel",
+"Cleaning Cache...": "Nettoyage du cache...",
+"{name} deleted": "{name} supprimé",
+"Delete {name}": "Supprimer {name}",
+"Media cache (discover) cleared": "Cache multimédia (discover) effacé",
+"Clear media cache (discover)": "Effacer le cache multimédia (discover)",
+"Official App Store": "Boutique d'applications officielle",
+"Switch to the official App Store": "Passer à l'App Store officiel",
+"Custom App Store": "Boutique d'applications personnalisée",
+"Switch to Custom App Store": "Passer à l'App Store personnalisé",
+"Recently used URLs:": "URL récemment utilisées :",
+"Please select...": "Veuillez sélectionner...",
+"Delete App Stores from History:": "Supprimer les App Stores de l'historique :",
+"Remove this URL": "Supprimer cette URL",
+"Delete": "Supprimer",
+"No previous URLs saved.": "Aucune URL précédente enregistrée.",
+"Changed App Store & cleared all caches successfully!": "Modification de l'App Store et effacement de tous les caches avec succès !",
+"Error when switching App Store.": "Erreur lors du changement d'App Store."
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

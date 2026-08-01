@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Skift App Store-kilde",
+"Current App Store:": "Nuværende App Store:",
+"Official": "Officiel",
+"Cleaning Cache...": "Renser cachen...",
+"{name} deleted": "{name} slettet",
+"Delete {name}": "Slet {name}",
+"Media cache (discover) cleared": "Mediecache (discover) ryddet",
+"Clear media cache (discover)": "Ryd mediecache (discover)",
+"Official App Store": "Officiel App Store",
+"Switch to the official App Store": "Skift til den officielle App Store",
+"Custom App Store": "Custom App Store",
+"Switch to Custom App Store": "Skift til Custom App Store",
+"Recently used URLs:": "Senest brugte URL'er:",
+"Please select...": "Vælg venligst...",
+"Delete App Stores from History:": "Slet App Stores fra Historien:",
+"Remove this URL": "Fjern denne URL",
+"Delete": "Slet",
+"No previous URLs saved.": "Ingen tidligere URL'er gemt.",
+"Changed App Store & cleared all caches successfully!": "Ændrede App Store og ryddede alle caches med succes!",
+"Error when switching App Store.": "Fejl ved skift af App Store."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

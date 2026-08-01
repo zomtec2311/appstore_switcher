@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Αλλαγή πηγής App Store",
+"Current App Store:": "Τρέχον App Store:",
+"Official": "Επίσημος ανώτερος υπάλληλος",
+"Cleaning Cache...": "Καθαρισμός προσωρινής μνήμης...",
+"{name} deleted": "Το {name} διαγράφηκε",
+"Delete {name}": "Διαγραφή {name}",
+"Media cache (discover) cleared": "Η κρυφή μνήμη μέσων (discover) διαγράφηκε",
+"Clear media cache (discover)": "Εκκαθάριση της κρυφής μνήμης πολυμέσων (discover)",
+"Official App Store": "Επίσημο App Store",
+"Switch to the official App Store": "Μεταβείτε στο επίσημο App Store",
+"Custom App Store": "Προσαρμοσμένο App Store",
+"Switch to Custom App Store": "Μετάβαση στο Custom App Store",
+"Recently used URLs:": "URL που χρησιμοποιήθηκαν πρόσφατα:",
+"Please select...": "Επιλέξτε...",
+"Delete App Stores from History:": "Διαγραφή App Stores από το ιστορικό:",
+"Remove this URL": "Καταργήστε αυτήν τη διεύθυνση URL",
+"Delete": "Διαγράφω",
+"No previous URLs saved.": "Δεν έχουν αποθηκευτεί προηγούμενες διευθύνσεις URL.",
+"Changed App Store & cleared all caches successfully!": "Άλλαξε το App Store και εκκαθάρισε όλες τις κρυφές μνήμες με επιτυχία!",
+"Error when switching App Store.": "Σφάλμα κατά την εναλλαγή του App Store."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

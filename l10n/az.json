@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Tətbiq Mağazası Mənbəsini dəyişin",
+"Current App Store:": "Cari Tətbiq Mağazası:",
+"Official": "Rəsmi",
+"Cleaning Cache...": "Keş təmizlənir...",
+"{name} deleted": "{name} silindi",
+"Delete {name}": "{name}-nı silin",
+"Media cache (discover) cleared": "Media önbelleği (discover) təmizləndi",
+"Clear media cache (discover)": "(discover) media önbelleğini təmizləyin",
+"Official App Store": "Rəsmi App Store",
+"Switch to the official App Store": "Rəsmi App Store-a keçin",
+"Custom App Store": "Fərdi Tətbiq Mağazası",
+"Switch to Custom App Store": "Fərdi Tətbiq Mağazasına keçin",
+"Recently used URLs:": "Son istifadə edilən URL-lər:",
+"Please select...": "Zəhmət olmasa seçin...",
+"Delete App Stores from History:": "Tətbiq Mağazalarını Tarixçədən Sil:",
+"Remove this URL": "Bu URL-i silin",
+"Delete": "Sil",
+"No previous URLs saved.": "Heç bir əvvəlki URL saxlanmayıb.",
+"Changed App Store & cleared all caches successfully!": "App Store dəyişdirildi və bütün keşlər uğurla silindi!",
+"Error when switching App Store.": "App Store-a keçid zamanı xəta baş verdi."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

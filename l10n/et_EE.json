@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Vahetage App Store'i allikat",
+"Current App Store:": "Praegune App Store:",
+"Official": "Ametlik",
+"Cleaning Cache...": "Vahemälu puhastamine...",
+"{name} deleted": "{name} kustutatud",
+"Delete {name}": "Kustuta {name}",
+"Media cache (discover) cleared": "Meediumi vahemälu (discover) tühjendatud",
+"Clear media cache (discover)": "Tühjendage meediumi vahemälu (discover)",
+"Official App Store": "Ametlik App Store",
+"Switch to the official App Store": "Lülituge ametlikku App Store'i",
+"Custom App Store": "Kohandatud App Store",
+"Switch to Custom App Store": "Lülituge kohandatud rakenduste poodi",
+"Recently used URLs:": "Hiljuti kasutatud URL-id:",
+"Please select...": "Palun valige...",
+"Delete App Stores from History:": "Kustutage App Stores ajaloost:",
+"Remove this URL": "Eemalda see URL",
+"Delete": "Kustuta",
+"No previous URLs saved.": "Varasemaid URL-e pole salvestatud.",
+"Changed App Store & cleared all caches successfully!": "Muudeti App Store'i ja tühjendati kõik vahemälud edukalt!",
+"Error when switching App Store.": "Viga App Store'i vahetamisel."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

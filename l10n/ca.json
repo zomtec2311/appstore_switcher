@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Canvia la font de l'App Store",
+"Current App Store:": "App Store actual:",
+"Official": "Oficial",
+"Cleaning Cache...": "Netejant la memòria cau...",
+"{name} deleted": "{name} s'ha suprimit",
+"Delete {name}": "Suprimeix {name}",
+"Media cache (discover) cleared": "S'ha esborrat la memòria cau multimèdia (discover)",
+"Clear media cache (discover)": "Esborra la memòria cau multimèdia (discover)",
+"Official App Store": "App Store oficial",
+"Switch to the official App Store": "Canvia a l'App Store oficial",
+"Custom App Store": "App Store personalitzat",
+"Switch to Custom App Store": "Canvia a l'App Store personalitzada",
+"Recently used URLs:": "URL utilitzats recentment:",
+"Please select...": "Seleccioneu...",
+"Delete App Stores from History:": "Suprimeix App Stores de l'historial:",
+"Remove this URL": "Elimina aquest URL",
+"Delete": "Suprimeix",
+"No previous URLs saved.": "No s'ha desat cap URL anterior.",
+"Changed App Store & cleared all caches successfully!": "S'ha canviat l'App Store i s'han esborrat totes les memòria cau correctament.",
+"Error when switching App Store.": "Error en canviar l'App Store."
+},"pluralForm" :"nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);"
+}

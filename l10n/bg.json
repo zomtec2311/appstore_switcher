@@ -1,0 +1,23 @@
+{ "translations": {
+    "Switch App Store Source": "Превключване на източника на App Store",
+"Current App Store:": "Текущ App Store:",
+"Official": "Официален",
+"Cleaning Cache...": "Почистване на кеша...",
+"{name} deleted": "{name} изтрит",
+"Delete {name}": "Изтриване на {name}",
+"Media cache (discover) cleared": "Медийният кеш (discover) е изчистен",
+"Clear media cache (discover)": "Изчистване на медийния кеш (discover)",
+"Official App Store": "Официален магазин за приложения",
+"Switch to the official App Store": "Преминете към официалния App Store",
+"Custom App Store": "Персонализиран App Store",
+"Switch to Custom App Store": "Превключете към Custom App Store",
+"Recently used URLs:": "Наскоро използвани URL адреси:",
+"Please select...": "Моля изберете...",
+"Delete App Stores from History:": "Изтрийте магазините за приложения от историята:",
+"Remove this URL": "Премахнете този URL адрес",
+"Delete": "Изтриване",
+"No previous URLs saved.": "Няма запазени предишни URL адреси.",
+"Changed App Store & cleared all caches successfully!": "Променен App Store и изчистени всички кешове успешно!",
+"Error when switching App Store.": "Грешка при превключване на App Store."
+},"pluralForm" :"nplurals=2; plural=n != 1;"
+}

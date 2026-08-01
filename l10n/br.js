@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Cheñch mammenn ar stal arloadoù",
+"Current App Store:": "Stal arloadoù bremañ :",
+"Official": "Ofisiel",
+"Cleaning Cache...": "Naetaat ar c'hrubuilh...",
+"{name} deleted": "{name} diverket",
+"Delete {name}": "Dilemel {name}",
+"Media cache (discover) cleared": "Diverket eo bet ar c'hrubuilh mediaoù (discover)",
+"Clear media cache (discover)": "Diverkañ ar c'hrubuilh mediaoù (discover)",
+"Official App Store": "Stal arloadoù ofisiel",
+"Switch to the official App Store": "Tremen d'an App Store ofisiel",
+"Custom App Store": "Stal arloadoù personelaet",
+"Switch to Custom App Store": "Tremen d'ar stal arloadoù personelaet",
+"Recently used URLs:": "URLoù implijet nevez zo :",
+"Please select...": "Dibabit mar plij...",
+"Delete App Stores from History:": "Dilemel ar stalioù arloadoù diouzh an istor :",
+"Remove this URL": "Dilemel an URL-mañ",
+"Delete": "Dilemel",
+"No previous URLs saved.": "URL kent ebet enrollet.",
+"Changed App Store & cleared all caches successfully!": "Cheñchet App Store ha diverket an holl c'hrubuilhoù gant berzh !",
+"Error when switching App Store.": "Fazi pa oa o cheñch App Store."
+},
+"nplurals=5; plural=(n % 10 == 1 && n % 100 != 11 && n % 100 != 71 && n % 100 != 91) ? 0 : ((n % 10 == 2 && n % 100 != 12 && n % 100 != 72 && n % 100 != 92) ? 1 : ((((n % 10 == 3 || n % 10 == 4) || n % 10 == 9) && (n % 100 < 10 || n % 100 > 19) && (n % 100 < 70 || n % 100 > 79) && (n % 100 < 90 || n % 100 > 99)) ? 2 : ((n != 0 && n % 1000000 == 0) ? 3 : 4)));");

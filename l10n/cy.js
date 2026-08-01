@@ -1,0 +1,25 @@
+OC.L10N.register(
+    "appstore_switcher",
+    {
+    "Switch App Store Source": "Newid Ffynhonnell App Store",
+"Current App Store:": "App Store Presennol:",
+"Official": "Swyddogol",
+"Cleaning Cache...": "Wrthi'n glanhau'r storfa...",
+"{name} deleted": "{name} wedi'i ddileu",
+"Delete {name}": "Dileu {name}",
+"Media cache (discover) cleared": "Celc cyfryngau (discover) wedi'i glirio",
+"Clear media cache (discover)": "Clirio storfa cyfryngau (discover)",
+"Official App Store": "App Store Swyddogol",
+"Switch to the official App Store": "Newidiwch i'r App Store swyddogol",
+"Custom App Store": "Siop App Custom",
+"Switch to Custom App Store": "Newid i Custom App Store",
+"Recently used URLs:": "URLau a ddefnyddiwyd yn ddiweddar:",
+"Please select...": "Dewiswch...",
+"Delete App Stores from History:": "Dileu App Stores o Hanes:",
+"Remove this URL": "Tynnwch yr URL hwn",
+"Delete": "Dileu",
+"No previous URLs saved.": "Dim URLau blaenorol wedi'u cadw.",
+"Changed App Store & cleared all caches successfully!": "Wedi newid App Store a chlirio pob storfa yn llwyddiannus!",
+"Error when switching App Store.": "Gwall wrth newid App Store."
+},
+"nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));");
