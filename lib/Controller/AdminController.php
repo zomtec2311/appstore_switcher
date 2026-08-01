@@ -35,14 +35,18 @@ use OCP\IRequest;
 use OCP\IConfig;
 use OCP\HintException;
 use Psr\Log\LoggerInterface;
+use OC\Files\AppData\Factory;
+use OCP\Files\IAppData;
 
 class AdminController extends Controller {
     private IConfig $config;
+    private IAppData $appData;
 
-    public function __construct(string $appName, IRequest $request, IConfig $config, protected LoggerInterface $logger) {
+    public function __construct(Factory $appDataFactory, string $appName, IRequest $request, IConfig $config, protected LoggerInterface $logger, IAppData $appData) {
         parent::__construct($appName, $request);
         $this->appName = $appName;
         $this->config = $config;
+        $this->appData = $appDataFactory->get('appstore');
     }
 
     /**
@@ -56,17 +60,7 @@ class AdminController extends Controller {
                 $this->config->setSystemValue('appstoreenabled', true);
                 $this->logger->info('official appstore set');
                 $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/apps.json';
-                if (file_exists($jsonfile_within_appstorefolder)) {
-                    unlink($jsonfile_within_appstorefolder);
-                }
-                $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/discover.json';
-                if (file_exists($jsonfile_within_appstorefolder)) {
-                    unlink($jsonfile_within_appstorefolder);
-                }
-                $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/categories.json';
-                if (file_exists($jsonfile_within_appstorefolder)) {
-                    unlink($jsonfile_within_appstorefolder);
-                }
+                $this->clearCache();
                 return new DataResponse(['status' => 'success', 'msg' => 'Official store activated', 'url' => '']);
             } else {
                 $this->config->setSystemValue('appstoreenabled', true);
@@ -142,15 +136,37 @@ class AdminController extends Controller {
 
         if ($httpCode === 200) {
             $this->logger->info("AppStoreSwitcher: File $url exists (HTTP 200).");
-            $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/' . $file;
-            if (file_exists($jsonfile_within_appstorefolder)) {
-                unlink($jsonfile_within_appstorefolder);
-            }
+            $folder = $this->appData->getFolder('/');
+            if ($folder->fileExists($file)) {
+                    $folder->getFile($file)->delete();
+                }
+                else { $this->logger->error("AppStoreSwitcher: File $file does not exist."); }
         } elseif (in_array($httpCode, [403, 401], true)) {
             $this->logger->error("AppStoreSwitcher: File $url may exist, but access denied (HTTP $httpCode).");
         } else {
             $this->logger->error("AppStoreSwitcher: File $url probably does not exist (HTTP $httpCode).");
         }
         return new JSONResponse(['success' => true]);
+    }
+
+    private function clearCache(): void {
+        try {
+            $folder = $this->appData->getFolder('/');
+
+            foreach (['discover.json', 'apps.json', 'categories.json'] as $file) {
+                if ($folder->fileExists($file)) {
+                    $folder->getFile($file)->delete();
+                }
+                else { $this->logger->error("AppStoreSwitcher: File $file does not exist."); }
+            }$folder = null;
+		try {
+			$folder = $this->appData->getFolder('app-discover-cache');
+			$folder->delete();
+            $this->appData->newFolder('app-discover-cache');
+		} catch (\Throwable $e) {
+			$folder = $this->appData->newFolder('app-discover-cache');
+		}
+        } catch (NotFoundException $e) {
+        }
     }
 }
