@@ -37,16 +37,19 @@ use OCP\HintException;
 use Psr\Log\LoggerInterface;
 use OC\Files\AppData\Factory;
 use OCP\Files\IAppData;
+use OCP\IL10N;
 
 class AdminController extends Controller {
     private IConfig $config;
     private IAppData $appData;
+    private IL10N $l;
 
-    public function __construct(Factory $appDataFactory, string $appName, IRequest $request, IConfig $config, protected LoggerInterface $logger, IAppData $appData) {
+    public function __construct(Factory $appDataFactory, string $appName, IRequest $request, IConfig $config, protected LoggerInterface $logger, IAppData $appData, IL10N $l) {
         parent::__construct($appName, $request);
         $this->appName = $appName;
         $this->config = $config;
         $this->appData = $appDataFactory->get('appstore');
+        $this->l = $l;
     }
 
     /**
@@ -61,7 +64,7 @@ class AdminController extends Controller {
                 $this->logger->info('official appstore set');
                 $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/apps.json';
                 $this->clearCache();
-                return new DataResponse(['status' => 'success', 'msg' => 'Official store activated', 'url' => '']);
+                return new DataResponse(['status' => 'success', 'msg' => $this->l->t('Official store activated'), 'url' => '']);
             } else {
                 $this->config->setSystemValue('appstoreenabled', true);
                 $this->config->setSystemValue('appstoreurl', $url);
@@ -81,10 +84,10 @@ class AdminController extends Controller {
                 $this->checkfile('discover.json');
                 $this->checkfile('categories.json');
                 $this->checkfile('apps.json');
-                return new DataResponse(['status' => 'success', 'msg' => 'Custom store activated', 'url' => $url]);
+                return new DataResponse(['status' => 'success', 'msg' => $this->l->t('Custom store activated'), 'url' => $url]);
             }
         } catch (HintException $e) {
-            return new DataResponse(['status' => 'error', 'msg' => 'Config file is read-only. Please check permissions.'], 403);
+            return new DataResponse(['status' => 'error', 'msg' => $this->l->t('Config file is read-only. Please check permissions.')], 403);
         } catch (\Exception $e) {
             return new DataResponse(['status' => 'error', 'msg' => $e->getMessage()], 500);
         }
