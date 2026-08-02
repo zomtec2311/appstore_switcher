@@ -18,6 +18,9 @@
 "Delete": "Изтриване",
 "No previous URLs saved.": "Няма запазени предишни URL адреси.",
 "Changed App Store & cleared all caches successfully!": "Променен App Store и изчистени всички кешове успешно!",
-"Error when switching App Store.": "Грешка при превключване на App Store."
+"Error when switching App Store.": "Грешка при превключване на App Store.",
+"Official store activated": "Официалният магазин е активиран",
+"Custom store activated": "Персонализираният магазин е активиран",
+"Config file is read-only. Please check permissions.": "Конфигурационният файл е само за четене. Моля проверете разрешенията."
 },"pluralForm" :"nplurals=2; plural=n != 1;"
 }

@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Usuwać",
 "No previous URLs saved.": "Nie zapisano żadnych poprzednich adresów URL.",
 "Changed App Store & cleared all caches successfully!": "Zmieniono App Store i pomyślnie wyczyszczono wszystkie pamięci podręczne!",
-"Error when switching App Store.": "Błąd podczas przełączania App Store."
+"Error when switching App Store.": "Błąd podczas przełączania App Store.",
+"Official store activated": "Oficjalny sklep aktywowany",
+"Custom store activated": "Aktywowano sklep niestandardowy",
+"Config file is read-only. Please check permissions.": "Plik konfiguracyjny jest tylko do odczytu. Sprawdź uprawnienia."
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);");

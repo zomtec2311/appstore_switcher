@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Menghapus",
 "No previous URLs saved.": "Tidak ada URL sebelumnya yang disimpan.",
 "Changed App Store & cleared all caches successfully!": "Mengubah App Store & berhasil membersihkan semua cache!",
-"Error when switching App Store.": "Kesalahan saat berpindah App Store."
+"Error when switching App Store.": "Kesalahan saat berpindah App Store.",
+"Official store activated": "Toko resmi diaktifkan",
+"Custom store activated": "Toko khusus diaktifkan",
+"Config file is read-only. Please check permissions.": "File konfigurasi bersifat hanya baca. Silakan periksa izin."
 },
 "nplurals=1; plural=0;");

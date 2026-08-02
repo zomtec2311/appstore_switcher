@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "ئۆچۈرۈش",
 "No previous URLs saved.": "ئىلگىرىكى URL لار ساقلانمىدى.",
 "Changed App Store & cleared all caches successfully!": "ئەپ دۇكىنىنى ئۆزگەرتتى ۋە بارلىق كەشلەرنى مۇۋەپپەقىيەتلىك تازىلىدى!",
-"Error when switching App Store.": "ئەپ دۇكىنىنى ئالماشتۇرغاندا خاتالىق."
+"Error when switching App Store.": "ئەپ دۇكىنىنى ئالماشتۇرغاندا خاتالىق.",
+"Official store activated": "رەسمىي دۇكان قوزغىتىلدى",
+"Custom store activated": "خاس دۇكان قوزغىتىلدى",
+"Config file is read-only. Please check permissions.": "ھۆججەتنى تەڭشەش پەقەت ئوقۇشقىلا بولىدۇ. ئىجازەتنى تەكشۈرۈڭ."
 },
 "nplurals=2; plural=n != 1;");

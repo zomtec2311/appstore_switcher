@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Dileu",
 "No previous URLs saved.": "Dim URLau blaenorol wedi'u cadw.",
 "Changed App Store & cleared all caches successfully!": "Wedi newid App Store a chlirio pob storfa yn llwyddiannus!",
-"Error when switching App Store.": "Gwall wrth newid App Store."
+"Error when switching App Store.": "Gwall wrth newid App Store.",
+"Official store activated": "Siop swyddogol wedi'i actifadu",
+"Custom store activated": "Siop personol wedi'i actifadu",
+"Config file is read-only. Please check permissions.": "Ffeil ffurfweddu yn ddarllen-yn-unig. Gwiriwch y caniatadau."
 },
 "nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));");

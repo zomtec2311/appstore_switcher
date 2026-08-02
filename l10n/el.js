@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Διαγράφω",
 "No previous URLs saved.": "Δεν έχουν αποθηκευτεί προηγούμενες διευθύνσεις URL.",
 "Changed App Store & cleared all caches successfully!": "Άλλαξε το App Store και εκκαθάρισε όλες τις κρυφές μνήμες με επιτυχία!",
-"Error when switching App Store.": "Σφάλμα κατά την εναλλαγή του App Store."
+"Error when switching App Store.": "Σφάλμα κατά την εναλλαγή του App Store.",
+"Official store activated": "Το επίσημο κατάστημα ενεργοποιήθηκε",
+"Custom store activated": "Ενεργοποιήθηκε το προσαρμοσμένο κατάστημα",
+"Config file is read-only. Please check permissions.": "Το αρχείο διαμόρφωσης είναι μόνο για ανάγνωση. Ελέγξτε τις άδειες."
 },
 "nplurals=2; plural=n != 1;");

@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Ištrinti",
 "No previous URLs saved.": "Ankstesnių URL neišsaugota.",
 "Changed App Store & cleared all caches successfully!": "Pakeista App Store ir sėkmingai išvalyta visa talpykla!",
-"Error when switching App Store.": "Perjungiant „App Store“ įvyko klaida."
+"Error when switching App Store.": "Perjungiant „App Store“ įvyko klaida.",
+"Official store activated": "Oficiali parduotuvė suaktyvinta",
+"Custom store activated": "Suaktyvinta tinkinta parduotuvė",
+"Config file is read-only. Please check permissions.": "Konfigūracijos failas yra tik skaitomas. Patikrinkite leidimus."
 },
 "nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);");

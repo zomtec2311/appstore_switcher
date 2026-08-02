@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Läschen",
 "No previous URLs saved.": "Keng virdrun URLen gespäichert.",
 "Changed App Store & cleared all caches successfully!": "App Store geännert an all Cache erfollegräich geläscht!",
-"Error when switching App Store.": "Feeler beim wiesselen vum App Store."
+"Error when switching App Store.": "Feeler beim wiesselen vum App Store.",
+"Official store activated": "Offiziell Buttek aktivéiert",
+"Custom store activated": "Benotzerdefinéiert Buttek aktivéiert",
+"Config file is read-only. Please check permissions.": "Configuratiounsdatei ass nëmme liesen. Kuckt w.e.g. Permissiounen."
 },
 "nplurals=2; plural=n != 1;");

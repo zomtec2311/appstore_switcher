@@ -18,6 +18,9 @@
 "Delete": "حذف کنید",
 "No previous URLs saved.": "هیچ URL قبلی ذخیره نشده است.",
 "Changed App Store & cleared all caches successfully!": "فروشگاه App تغییر کرد و تمام کش ها با موفقیت پاک شد!",
-"Error when switching App Store.": "خطا هنگام تعویض App Store."
+"Error when switching App Store.": "خطا هنگام تعویض App Store.",
+"Official store activated": "فروشگاه رسمی فعال شد",
+"Custom store activated": "فروشگاه سفارشی فعال شد",
+"Config file is read-only. Please check permissions.": "فایل پیکربندی فقط خواندنی است. لطفا مجوزها را بررسی کنید."
 },"pluralForm" :"nplurals=2; plural=n > 1;"
 }

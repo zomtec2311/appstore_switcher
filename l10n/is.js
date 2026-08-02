@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Eyða",
 "No previous URLs saved.": "Engar fyrri vefslóðir vistaðar.",
 "Changed App Store & cleared all caches successfully!": "Breytti App Store og hreinsaði öll skyndiminni með góðum árangri!",
-"Error when switching App Store.": "Villa þegar skipt var um App Store."
+"Error when switching App Store.": "Villa þegar skipt var um App Store.",
+"Official store activated": "Opinber verslun virkjuð",
+"Custom store activated": "Sérsniðin verslun virkjuð",
+"Config file is read-only. Please check permissions.": "Stillingarskrá er skrifvarinn. Vinsamlegast athugaðu heimildir."
 },
 "nplurals=2; plural=n % 10 != 1 || n % 100 == 11;");

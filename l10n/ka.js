@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "წაშლა",
 "No previous URLs saved.": "წინა URL შენახული არ არის.",
 "Changed App Store & cleared all caches successfully!": "შეიცვალა App Store და წარმატებით გაასუფთავეს ყველა ქეში!",
-"Error when switching App Store.": "შეცდომა App Store-ის გადართვისას."
+"Error when switching App Store.": "შეცდომა App Store-ის გადართვისას.",
+"Official store activated": "გააქტიურებულია ოფიციალური მაღაზია",
+"Custom store activated": "პირადი მაღაზია გააქტიურებულია",
+"Config file is read-only. Please check permissions.": "კონფიგურაციის ფაილი არის მხოლოდ წაკითხვადი. გთხოვთ შეამოწმოთ ნებართვები."
 },
 "nplurals=2; plural=n != 1;");

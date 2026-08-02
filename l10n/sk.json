@@ -18,6 +18,9 @@
 "Delete": "Odstrániť",
 "No previous URLs saved.": "Nie sú uložené žiadne predchádzajúce adresy URL.",
 "Changed App Store & cleared all caches successfully!": "Changed App Store & cleared all caches successfully!",
-"Error when switching App Store.": "Chyba pri prepínaní App Store."
+"Error when switching App Store.": "Chyba pri prepínaní App Store.",
+"Official store activated": "Oficiálny obchod je aktivovaný",
+"Custom store activated": "Vlastný obchod je aktivovaný",
+"Config file is read-only. Please check permissions.": "Konfiguračný súbor je len na čítanie. Skontrolujte povolenia."
 },"pluralForm" :"nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);"
 }

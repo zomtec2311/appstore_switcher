@@ -18,6 +18,9 @@
 "Delete": "Удалить",
 "No previous URLs saved.": "Предыдущие URL-адреса не сохранены.",
 "Changed App Store & cleared all caches successfully!": "Изменен App Store и успешно очищены все кеши!",
-"Error when switching App Store.": "Ошибка при переключении App Store."
+"Error when switching App Store.": "Ошибка при переключении App Store.",
+"Official store activated": "Официальный магазин активирован",
+"Custom store activated": "Пользовательский магазин активирован",
+"Config file is read-only. Please check permissions.": "Конфигурационный файл доступен только для чтения. Пожалуйста проверьте разрешения."
 },"pluralForm" :"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);"
 }

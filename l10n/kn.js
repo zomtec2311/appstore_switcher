@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "ಅಳಿಸಿ",
 "No previous URLs saved.": "ಯಾವುದೇ ಹಿಂದಿನ URL ಗಳನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ.",
 "Changed App Store & cleared all caches successfully!": "ಆಪ್ ಸ್ಟೋರ್ ಅನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ ಮತ್ತು ಎಲ್ಲಾ ಸಂಗ್ರಹಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ!",
-"Error when switching App Store.": "ಆಪ್ ಸ್ಟೋರ್ ಬದಲಾಯಿಸುವಾಗ ದೋಷ."
+"Error when switching App Store.": "ಆಪ್ ಸ್ಟೋರ್ ಬದಲಾಯಿಸುವಾಗ ದೋಷ.",
+"Official store activated": "ಅಧಿಕೃತ ಅಂಗಡಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+"Custom store activated": "ಕಸ್ಟಮ್ ಸ್ಟೋರ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+"Config file is read-only. Please check permissions.": "ಕಾನ್ಫಿಗರ್ ಫೈಲ್ ಓದಲು ಮಾತ್ರ. ದಯವಿಟ್ಟು ಅನುಮತಿಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
 },
 "nplurals=2; plural=n > 1;");

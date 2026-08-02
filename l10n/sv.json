@@ -18,6 +18,9 @@
 "Delete": "Radera",
 "No previous URLs saved.": "Inga tidigare webbadresser sparade.",
 "Changed App Store & cleared all caches successfully!": "Ändrade App Store och rensade alla cachar framgångsrikt!",
-"Error when switching App Store.": "Fel vid byte av App Store."
+"Error when switching App Store.": "Fel vid byte av App Store.",
+"Official store activated": "Officiell butik aktiverad",
+"Custom store activated": "Anpassad butik aktiverad",
+"Config file is read-only. Please check permissions.": "Konfigurationsfilen är skrivskyddad. Kontrollera behörigheter."
 },"pluralForm" :"nplurals=2; plural=n != 1;"
 }

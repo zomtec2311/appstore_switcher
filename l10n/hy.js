@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Ջնջել",
 "No previous URLs saved.": "Նախկին URL-ներ չեն պահպանվել:",
 "Changed App Store & cleared all caches successfully!": "Փոխեց App Store-ը և հաջողությամբ մաքրեց բոլոր քեշերը:",
-"Error when switching App Store.": "Սխալ՝ App Store-ը միացնելու ժամանակ:"
+"Error when switching App Store.": "Սխալ՝ App Store-ը միացնելու ժամանակ:",
+"Official store activated": "Պաշտոնական խանութն ակտիվացել է",
+"Custom store activated": "Հատուկ խանութն ակտիվացված է",
+"Config file is read-only. Please check permissions.": "Կազմաձևման ֆայլը միայն կարդալու է: Խնդրում ենք ստուգել թույլտվությունները:"
 },
 "nplurals=2; plural=n > 1;");

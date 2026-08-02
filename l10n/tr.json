@@ -18,6 +18,9 @@
 "Delete": "Silmek",
 "No previous URLs saved.": "Önceki URL kaydedilmedi.",
 "Changed App Store & cleared all caches successfully!": "App Store'u değiştirdi ve tüm önbellekleri başarıyla temizledi!",
-"Error when switching App Store.": "App Store'u değiştirirken hata oluştu."
+"Error when switching App Store.": "App Store'u değiştirirken hata oluştu.",
+"Official store activated": "Resmi mağaza etkinleştirildi",
+"Custom store activated": "Özel mağaza etkinleştirildi",
+"Config file is read-only. Please check permissions.": "Yapılandırma dosyası salt okunurdur. Lütfen izinleri kontrol edin."
 },"pluralForm" :"nplurals=2; plural=n != 1;"
 }

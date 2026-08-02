@@ -18,6 +18,9 @@
 "Delete": "消去",
 "No previous URLs saved.": "以前の URL は保存されていません。",
 "Changed App Store & cleared all caches successfully!": "App Storeを変更し、すべてのキャッシュを正常にクリアしました。",
-"Error when switching App Store.": "App Storeを切り替えるときにエラーが発生しました。"
+"Error when switching App Store.": "App Storeを切り替えるときにエラーが発生しました。",
+"Official store activated": "公式ストアが起動しました",
+"Custom store activated": "カスタムストアが有効化されました",
+"Config file is read-only. Please check permissions.": "構成ファイルは読み取り専用です。権限を確認してください。"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

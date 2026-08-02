@@ -18,6 +18,9 @@
 "Delete": "يمسح",
 "No previous URLs saved.": "لم يتم حفظ أي عناوين URL سابقة.",
 "Changed App Store & cleared all caches successfully!": "تم تغيير متجر التطبيقات ومسح جميع ذاكرات التخزين المؤقت بنجاح!",
-"Error when switching App Store.": "حدث خطأ عند تبديل متجر التطبيقات."
+"Error when switching App Store.": "حدث خطأ عند تبديل متجر التطبيقات.",
+"Official store activated": "تم تفعيل المتجر الرسمي",
+"Custom store activated": "تم تفعيل المتجر المخصص",
+"Config file is read-only. Please check permissions.": "ملف التكوين للقراءة فقط. يرجى التحقق من الأذونات."
 },"pluralForm" :"nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));"
 }

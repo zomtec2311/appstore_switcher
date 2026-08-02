@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Eliminar",
 "No previous URLs saved.": "Non se gardou ningún URL anterior.",
 "Changed App Store & cleared all caches successfully!": "Cambiouse a App Store e borráronse todas as cachés correctamente.",
-"Error when switching App Store.": "Produciuse un erro ao cambiar a App Store."
+"Error when switching App Store.": "Produciuse un erro ao cambiar a App Store.",
+"Official store activated": "Tenda oficial activada",
+"Custom store activated": "Tenda personalizada activada",
+"Config file is read-only. Please check permissions.": "O ficheiro de configuración é só de lectura. Comproba os permisos."
 },
 "nplurals=2; plural=n != 1;");

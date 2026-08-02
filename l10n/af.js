@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Vee uit",
 "No previous URLs saved.": "Geen vorige URL's gestoor nie.",
 "Changed App Store & cleared all caches successfully!": "Het App Store verander en alle caches suksesvol skoongemaak!",
-"Error when switching App Store.": "Fout met die oorskakeling van App Store."
+"Error when switching App Store.": "Fout met die oorskakeling van App Store.",
+"Official store activated": "Amptelike winkel geaktiveer",
+"Custom store activated": "Pasgemaakte winkel geaktiveer",
+"Config file is read-only. Please check permissions.": "Config lêer is leesalleen. Kontroleer asseblief toestemmings."
 },
 "nplurals=2; plural=n != 1;");

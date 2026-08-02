@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "ລຶບ",
 "No previous URLs saved.": "ບໍ່ມີ URL ທີ່ຜ່ານມາຖືກບັນທຶກໄວ້.",
 "Changed App Store & cleared all caches successfully!": "ປ່ຽນ App Store ແລະລຶບລ້າງແຄສທັງໝົດສຳເລັດແລ້ວ!",
-"Error when switching App Store.": "ຜິດພາດໃນເວລາປ່ຽນ App Store."
+"Error when switching App Store.": "ຜິດພາດໃນເວລາປ່ຽນ App Store.",
+"Official store activated": "ເປີດຮ້ານຢ່າງເປັນທາງການແລ້ວ",
+"Custom store activated": "ເປີດໃຊ້ຮ້ານຄ້າແບບກຳນົດເອງແລ້ວ",
+"Config file is read-only. Please check permissions.": "ໄຟລ໌ config ແມ່ນອ່ານເທົ່ານັ້ນ. ກະລຸນາກວດສອບການອະນຸຍາດ."
 },
 "nplurals=1; plural=0;");

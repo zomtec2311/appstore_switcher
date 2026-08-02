@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Видалити",
 "No previous URLs saved.": "Немає попередніх URL-адрес.",
 "Changed App Store & cleared all caches successfully!": "Змінено App Store і успішно очищено всі кеші!",
-"Error when switching App Store.": "Помилка під час перемикання App Store."
+"Error when switching App Store.": "Помилка під час перемикання App Store.",
+"Official store activated": "Активований офіційний магазин",
+"Custom store activated": "Спеціальний магазин активований",
+"Config file is read-only. Please check permissions.": "Файл конфігурації доступний лише для читання. Перевірте дозволи."
 },
 "nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);");

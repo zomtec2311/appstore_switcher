@@ -18,6 +18,9 @@
 "Delete": "Suprimeix",
 "No previous URLs saved.": "No s'ha desat cap URL anterior.",
 "Changed App Store & cleared all caches successfully!": "S'ha canviat l'App Store i s'han esborrat totes les memòria cau correctament.",
-"Error when switching App Store.": "Error en canviar l'App Store."
+"Error when switching App Store.": "Error en canviar l'App Store.",
+"Official store activated": "Botiga oficial activada",
+"Custom store activated": "Botiga personalitzada activada",
+"Config file is read-only. Please check permissions.": "El fitxer de configuració és només de lectura. Si us plau comproveu els permisos."
 },"pluralForm" :"nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);"
 }

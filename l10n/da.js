@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Slet",
 "No previous URLs saved.": "Ingen tidligere URL'er gemt.",
 "Changed App Store & cleared all caches successfully!": "Ændrede App Store og ryddede alle caches med succes!",
-"Error when switching App Store.": "Fejl ved skift af App Store."
+"Error when switching App Store.": "Fejl ved skift af App Store.",
+"Official store activated": "Officiel butik aktiveret",
+"Custom store activated": "Tilpasset butik aktiveret",
+"Config file is read-only. Please check permissions.": "Konfigurationsfilen er skrivebeskyttet. Tjek venligst tilladelser."
 },
 "nplurals=2; plural=n != 1;");

@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "삭제",
 "No previous URLs saved.": "저장된 이전 URL이 없습니다.",
 "Changed App Store & cleared all caches successfully!": "App Store를 변경하고 모든 캐시를 성공적으로 지웠습니다!",
-"Error when switching App Store.": "App Store를 전환하는 중에 오류가 발생했습니다."
+"Error when switching App Store.": "App Store를 전환하는 중에 오류가 발생했습니다.",
+"Official store activated": "공식 매장 활성화",
+"Custom store activated": "커스텀 스토어 활성화",
+"Config file is read-only. Please check permissions.": "구성 파일은 읽기 전용입니다. 권한을 확인하세요."
 },
 "nplurals=1; plural=0;");

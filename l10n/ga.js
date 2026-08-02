@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Scrios",
 "No previous URLs saved.": "Níor sábháladh aon URL roimhe seo.",
 "Changed App Store & cleared all caches successfully!": "Athraíodh an App Store & d'éirigh le gach taisce a ghlanadh!",
-"Error when switching App Store.": "Earráid agus an App Store á athrú."
+"Error when switching App Store.": "Earráid agus an App Store á athrú.",
+"Official store activated": "An siopa oifigiúil gníomhachtaithe",
+"Custom store activated": "Siopa saincheaptha gníomhachtaithe",
+"Config file is read-only. Please check permissions.": "Tá an comhad cumraíochta inléite amháin. Seiceáil ceadanna."
 },
 "nplurals=5; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n >= 3 && n <= 6) ? 2 : ((n >= 7 && n <= 10) ? 3 : 4)));");

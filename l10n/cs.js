@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Vymazat",
 "No previous URLs saved.": "Nebyly uloženy žádné předchozí adresy URL.",
 "Changed App Store & cleared all caches successfully!": "Změněn App Store a úspěšně vymazány všechny mezipaměti!",
-"Error when switching App Store.": "Chyba při přepínání App Store."
+"Error when switching App Store.": "Chyba při přepínání App Store.",
+"Official store activated": "Oficiální obchod aktivován",
+"Custom store activated": "Vlastní obchod aktivován",
+"Config file is read-only. Please check permissions.": "Konfigurační soubor je pouze pro čtení. Zkontrolujte prosím oprávnění."
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);");

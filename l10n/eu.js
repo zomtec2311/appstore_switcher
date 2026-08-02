@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Ezabatu",
 "No previous URLs saved.": "Ez da aurreko URLrik gorde.",
 "Changed App Store & cleared all caches successfully!": "App Store aldatu eta cache guztiak behar bezala garbitu dira!",
-"Error when switching App Store.": "Errore bat gertatu da App Store aldatzean."
+"Error when switching App Store.": "Errore bat gertatu da App Store aldatzean.",
+"Official store activated": "Denda ofiziala aktibatuta dago",
+"Custom store activated": "Denda pertsonalizatua aktibatu da",
+"Config file is read-only. Please check permissions.": "Konfigurazio fitxategia irakurtzeko soilik da. Mesedez egiaztatu baimenak."
 },
 "nplurals=2; plural=n != 1;");

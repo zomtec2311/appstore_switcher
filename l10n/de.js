@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Löschen",
 "No previous URLs saved.": "Keine vorherigen URLs gespeichert.",
 "Changed App Store & cleared all caches successfully!": "App Store geändert und alle Caches erfolgreich geleert!",
-"Error when switching App Store.": "Fehler beim Wechseln des App Store."
+"Error when switching App Store.": "Fehler beim Wechseln des App Store.",
+"Official store activated": "Offizieller Store aktiviert",
+"Custom store activated": "Benutzerdefinierter Store aktiviert",
+"Config file is read-only. Please check permissions.": "Die Konfigurationsdatei ist schreibgeschützt. Bitte Berechtigungen überprüfen."
 },
 "nplurals=2; plural=(n != 1);");

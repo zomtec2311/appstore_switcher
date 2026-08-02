@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "លុប",
 "No previous URLs saved.": "គ្មាន URLs ពីមុនត្រូវបានរក្សាទុកទេ។",
 "Changed App Store & cleared all caches successfully!": "បានផ្លាស់ប្តូរ App Store និងសម្អាតឃ្លាំងសម្ងាត់ទាំងអស់ដោយជោគជ័យ!",
-"Error when switching App Store.": "កំហុសនៅពេលប្តូរ App Store ។"
+"Error when switching App Store.": "កំហុសនៅពេលប្តូរ App Store ។",
+"Official store activated": "ហាងផ្លូវការបានបើកដំណើរការហើយ។",
+"Custom store activated": "បានបើកដំណើរការហាងផ្ទាល់ខ្លួន",
+"Config file is read-only. Please check permissions.": "ឯកសារកំណត់រចនាសម្ព័ន្ធគឺបានតែអាន។ សូមពិនិត្យមើលការអនុញ្ញាត។"
 },
 "nplurals=1; plural=0;");

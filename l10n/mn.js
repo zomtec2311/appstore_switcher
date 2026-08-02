@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Устгах",
 "No previous URLs saved.": "Өмнөх URL хадгалагдаагүй.",
 "Changed App Store & cleared all caches successfully!": "App Store-г өөрчилж, бүх кэшийг амжилттай устгалаа!",
-"Error when switching App Store.": "App Store руу шилжих үед алдаа гарлаа."
+"Error when switching App Store.": "App Store руу шилжих үед алдаа гарлаа.",
+"Official store activated": "Албан ёсны дэлгүүрийг идэвхжүүлсэн",
+"Custom store activated": "Захиалгат дэлгүүрийг идэвхжүүлсэн",
+"Config file is read-only. Please check permissions.": "Тохируулгын файл зөвхөн унших боломжтой. Зөвшөөрлийг шалгана уу."
 },
 "nplurals=2; plural=n != 1;");

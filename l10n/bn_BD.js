@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "মুছে দিন",
 "No previous URLs saved.": "কোনো পূর্ববর্তী URL সংরক্ষণ করা হয়নি।",
 "Changed App Store & cleared all caches successfully!": "অ্যাপ স্টোর পরিবর্তন করা হয়েছে এবং সফলভাবে সমস্ত ক্যাশে সাফ করা হয়েছে!",
-"Error when switching App Store.": "অ্যাপ স্টোর স্যুইচ করার সময় ত্রুটি।"
+"Error when switching App Store.": "অ্যাপ স্টোর স্যুইচ করার সময় ত্রুটি।",
+"Official store activated": "অফিসিয়াল দোকান সক্রিয়",
+"Custom store activated": "কাস্টম দোকান সক্রিয়",
+"Config file is read-only. Please check permissions.": "কনফিগ ফাইল শুধুমাত্র পঠনযোগ্য। অনুমতি চেক করুন."
 },
 "nplurals=2; plural=n > 1;");

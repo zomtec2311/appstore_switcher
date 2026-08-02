@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Töröl",
 "No previous URLs saved.": "Nincsenek mentett korábbi URL-ek.",
 "Changed App Store & cleared all caches successfully!": "Megváltoztatta az App Store-t, és sikeresen törölte az összes gyorsítótárat!",
-"Error when switching App Store.": "Hiba az App Store váltáskor."
+"Error when switching App Store.": "Hiba az App Store váltáskor.",
+"Official store activated": "Hivatalos áruház aktiválva",
+"Custom store activated": "Egyéni áruház aktiválva",
+"Config file is read-only. Please check permissions.": "A konfigurációs fájl csak olvasható. Kérjük ellenőrizze az engedélyeket."
 },
 "nplurals=2; plural=n != 1;");

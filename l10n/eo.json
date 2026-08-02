@@ -18,6 +18,9 @@
 "Delete": "Forigi",
 "No previous URLs saved.": "Neniuj antaŭaj URL-oj konservitaj.",
 "Changed App Store & cleared all caches successfully!": "Ŝanĝis App Store kaj purigis ĉiujn kaŝmemorojn sukcese!",
-"Error when switching App Store.": "Eraro dum ŝanĝado de App Store."
+"Error when switching App Store.": "Eraro dum ŝanĝado de App Store.",
+"Official store activated": "Oficiala vendejo aktivigita",
+"Custom store activated": "Propra vendejo aktivigita",
+"Config file is read-only. Please check permissions.": "Agorda dosiero estas nurlegebla. Bonvolu kontroli permesojn."
 },"pluralForm" :"nplurals=2; plural=n != 1;"
 }

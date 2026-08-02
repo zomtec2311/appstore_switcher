@@ -18,6 +18,9 @@
 "Delete": "Dzēst",
 "No previous URLs saved.": "Iepriekšējie URL nav saglabāti.",
 "Changed App Store & cleared all caches successfully!": "Mainīts App Store un veiksmīgi notīrīta visa kešatmiņa!",
-"Error when switching App Store.": "Pārslēdzot App Store radās kļūda."
+"Error when switching App Store.": "Pārslēdzot App Store radās kļūda.",
+"Official store activated": "Oficiālais veikals ir aktivizēts",
+"Custom store activated": "Pielāgotais veikals ir aktivizēts",
+"Config file is read-only. Please check permissions.": "Konfigurācijas fails ir tikai lasāms. Lūdzu pārbaudiet atļaujas."
 },"pluralForm" :"nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= 19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);"
 }

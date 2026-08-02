@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "ลบ",
 "No previous URLs saved.": "ไม่มีการบันทึก URL ก่อนหน้า",
 "Changed App Store & cleared all caches successfully!": "เปลี่ยน App Store และล้างแคชทั้งหมดสำเร็จแล้ว!",
-"Error when switching App Store.": "เกิดข้อผิดพลาดเมื่อเปลี่ยน App Store"
+"Error when switching App Store.": "เกิดข้อผิดพลาดเมื่อเปลี่ยน App Store",
+"Official store activated": "เปิดใช้งานร้านค้าอย่างเป็นทางการแล้ว",
+"Custom store activated": "เปิดใช้งานร้านค้าแบบกำหนดเองแล้ว",
+"Config file is read-only. Please check permissions.": "ไฟล์กำหนดค่าเป็นแบบอ่านอย่างเดียว กรุณาตรวจสอบสิทธิ์"
 },
 "nplurals=1; plural=0;");

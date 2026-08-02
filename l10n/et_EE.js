@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Kustuta",
 "No previous URLs saved.": "Varasemaid URL-e pole salvestatud.",
 "Changed App Store & cleared all caches successfully!": "Muudeti App Store'i ja tühjendati kõik vahemälud edukalt!",
-"Error when switching App Store.": "Viga App Store'i vahetamisel."
+"Error when switching App Store.": "Viga App Store'i vahetamisel.",
+"Official store activated": "Ametlik pood on aktiveeritud",
+"Custom store activated": "Kohandatud pood on aktiveeritud",
+"Config file is read-only. Please check permissions.": "Konfiguratsioonifail on kirjutuskaitstud. Kontrollige õigusi."
 },
 "nplurals=2; plural=n != 1;");

@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Xóa bỏ",
 "No previous URLs saved.": "Không có URL trước đó được lưu.",
 "Changed App Store & cleared all caches successfully!": "Đã thay đổi App Store và xóa tất cả bộ nhớ đệm thành công!",
-"Error when switching App Store.": "Lỗi khi chuyển đổi App Store."
+"Error when switching App Store.": "Lỗi khi chuyển đổi App Store.",
+"Official store activated": "Cửa hàng chính thức được kích hoạt",
+"Custom store activated": "Cửa hàng tùy chỉnh được kích hoạt",
+"Config file is read-only. Please check permissions.": "Tệp cấu hình ở dạng chỉ đọc. Vui lòng kiểm tra quyền."
 },
 "nplurals=1; plural=0;");

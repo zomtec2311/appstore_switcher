@@ -18,6 +18,9 @@
 "Delete": "Borrar",
 "No previous URLs saved.": "No se guardaron URL anteriores.",
 "Changed App Store & cleared all caches successfully!": "¡Se cambió la App Store y se borraron todos los cachés con éxito!",
-"Error when switching App Store.": "Error al cambiar de App Store."
+"Error when switching App Store.": "Error al cambiar de App Store.",
+"Official store activated": "Tienda oficial activada",
+"Custom store activated": "Tienda personalizada activada",
+"Config file is read-only. Please check permissions.": "El archivo de configuración es de solo lectura. Por favor verifique los permisos."
 },"pluralForm" :"nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);"
 }

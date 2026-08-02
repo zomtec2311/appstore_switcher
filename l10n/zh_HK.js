@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "刪除",
 "No previous URLs saved.": "沒有儲存先前的 URL。",
 "Changed App Store & cleared all caches successfully!": "更改App Store並成功清除所有快取！",
-"Error when switching App Store.": "切換App Store時發生錯誤。"
+"Error when switching App Store.": "切換App Store時發生錯誤。",
+"Official store activated": "官方商店已激活",
+"Custom store activated": "自訂商店已激活",
+"Config file is read-only. Please check permissions.": "設定檔是唯讀的。請檢查權限。"
 },
 "nplurals=1; plural=0;");

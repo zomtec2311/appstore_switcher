@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Delete",
 "No previous URLs saved.": "No previous URLs saved.",
 "Changed App Store & cleared all caches successfully!": "Changed App Store & cleared all caches successfully!",
-"Error when switching App Store.": "Error when switching App Store."
+"Error when switching App Store.": "Error when switching App Store.",
+"Official store activated": "Official store activated",
+"Custom store activated": "Custom store activated",
+"Config file is read-only. Please check permissions.": "Config file is read-only. Please check permissions."
 },
 "nplurals=2; plural=(n != 1);");

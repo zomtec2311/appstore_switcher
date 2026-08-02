@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "לִמְחוֹק",
 "No previous URLs saved.": "לא נשמרו כתובות URL קודמות.",
 "Changed App Store & cleared all caches successfully!": "שינה את חנות האפליקציות וניקה את כל המטמונים בהצלחה!",
-"Error when switching App Store.": "שגיאה בעת החלפת App Store."
+"Error when switching App Store.": "שגיאה בעת החלפת App Store.",
+"Official store activated": "החנות הרשמית הופעלה",
+"Custom store activated": "חנות מותאמת אישית הופעלה",
+"Config file is read-only. Please check permissions.": "קובץ התצורה הוא לקריאה בלבד. אנא בדוק הרשאות."
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n == 2) ? 1 : 2);");

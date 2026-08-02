@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Sil",
 "No previous URLs saved.": "Heç bir əvvəlki URL saxlanmayıb.",
 "Changed App Store & cleared all caches successfully!": "App Store dəyişdirildi və bütün keşlər uğurla silindi!",
-"Error when switching App Store.": "App Store-a keçid zamanı xəta baş verdi."
+"Error when switching App Store.": "App Store-a keçid zamanı xəta baş verdi.",
+"Official store activated": "Rəsmi mağaza aktivləşdirilib",
+"Custom store activated": "Fərdi mağaza aktivləşdirildi",
+"Config file is read-only. Please check permissions.": "Konfiqurasiya faylı yalnız oxunur. İcazələri yoxlayın."
 },
 "nplurals=2; plural=n != 1;");

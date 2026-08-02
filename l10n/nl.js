@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Verwijderen",
 "No previous URLs saved.": "Geen eerdere URL's opgeslagen.",
 "Changed App Store & cleared all caches successfully!": "App Store gewijzigd en alle caches met succes gewist!",
-"Error when switching App Store.": "Fout bij het wisselen van App Store."
+"Error when switching App Store.": "Fout bij het wisselen van App Store.",
+"Official store activated": "Officiële winkel geactiveerd",
+"Custom store activated": "Aangepaste winkel geactiveerd",
+"Config file is read-only. Please check permissions.": "Het configuratiebestand is alleen-lezen. Controleer de machtigingen."
 },
 "nplurals=2; plural=n != 1;");

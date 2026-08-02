@@ -18,6 +18,9 @@
 "Delete": "Izbriši",
 "No previous URLs saved.": "Ni shranjenih prejšnjih URL-jev.",
 "Changed App Store & cleared all caches successfully!": "Spremenjen App Store in uspešno izbrisani vsi predpomnilniki!",
-"Error when switching App Store.": "Napaka pri preklopu App Store."
+"Error when switching App Store.": "Napaka pri preklopu App Store.",
+"Official store activated": "Uradna trgovina aktivirana",
+"Custom store activated": "Aktivirana trgovina po meri",
+"Config file is read-only. Please check permissions.": "Konfiguracijska datoteka je samo za branje. Preverite dovoljenja."
 },"pluralForm" :"nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));"
 }

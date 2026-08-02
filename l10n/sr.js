@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Избриши",
 "No previous URLs saved.": "Нема сачуваних претходних УРЛ адреса.",
 "Changed App Store & cleared all caches successfully!": "Променио Апп Сторе и успешно обрисао све кеш меморије!",
-"Error when switching App Store.": "Грешка при промени Апп Сторе-а."
+"Error when switching App Store.": "Грешка при промени Апп Сторе-а.",
+"Official store activated": "Званична продавница је активирана",
+"Custom store activated": "Прилагођена продавница је активирана",
+"Config file is read-only. Please check permissions.": "Конфигурациони фајл је само за читање. Проверите дозволе."
 },
 "nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);");

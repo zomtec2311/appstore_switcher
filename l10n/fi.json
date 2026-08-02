@@ -18,6 +18,9 @@
 "Delete": "Poistaa",
 "No previous URLs saved.": "Aiempia URL-osoitteita ei ole tallennettu.",
 "Changed App Store & cleared all caches successfully!": "App Storea vaihdettiin ja kaikki välimuistit tyhjennettiin onnistuneesti!",
-"Error when switching App Store.": "Virhe vaihdettaessa App Storea."
+"Error when switching App Store.": "Virhe vaihdettaessa App Storea.",
+"Official store activated": "Virallinen kauppa aktivoitu",
+"Custom store activated": "Mukautettu kauppa aktivoitu",
+"Config file is read-only. Please check permissions.": "Asetustiedosto on vain luku -tilassa. Tarkista käyttöoikeudet."
 },"pluralForm" :"nplurals=2; plural=n != 1;"
 }

@@ -20,6 +20,9 @@ OC.L10N.register(
 "Delete": "Şterge",
 "No previous URLs saved.": "Nu au fost salvate adrese URL anterioare.",
 "Changed App Store & cleared all caches successfully!": "S-a schimbat App Store și am șters toate cache-urile cu succes!",
-"Error when switching App Store.": "Eroare la schimbarea App Store."
+"Error when switching App Store.": "Eroare la schimbarea App Store.",
+"Official store activated": "Magazin oficial activat",
+"Custom store activated": "Magazin personalizat a fost activat",
+"Config file is read-only. Please check permissions.": "Fișierul de configurare este doar pentru citire. Vă rugăm să verificați permisiunile."
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n != 1 && n % 100 >= 1 && n % 100 <= 19) ? 1 : 2);");
