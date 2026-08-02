@@ -62,7 +62,6 @@ class AdminController extends Controller {
                 $this->config->deleteSystemValue('appstoreurl');
                 $this->config->setSystemValue('appstoreenabled', true);
                 $this->logger->info('official appstore set');
-                $jsonfile_within_appstorefolder = $this->config->getSystemValue('datadirectory') . '/appdata_' . $this->config->getSystemValue('instanceid') . '/appstore/apps.json';
                 $this->clearCache();
                 return new DataResponse(['status' => 'success', 'msg' => $this->l->t('Official store activated'), 'url' => '']);
             } else {
