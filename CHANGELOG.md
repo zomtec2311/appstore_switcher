@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.3
+
+### Added
+- removed cached files will be rewritten during switching progress
+
 ## 1.0.2
 
 ### Added
