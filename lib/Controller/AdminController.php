@@ -36,6 +36,9 @@ use OCP\IConfig;
 use OCP\HintException;
 use Psr\Log\LoggerInterface;
 use OC\Files\AppData\Factory;
+use OC\App\AppStore\Fetcher\AppDiscoverFetcher;
+use OC\App\AppStore\Fetcher\AppFetcher;
+use OC\App\AppStore\Fetcher\CategoryFetcher;
 use OCP\Files\IAppData;
 use OCP\IL10N;
 
@@ -44,7 +47,18 @@ class AdminController extends Controller {
     private IAppData $appData;
     private IL10N $l;
 
-    public function __construct(Factory $appDataFactory, string $appName, IRequest $request, IConfig $config, protected LoggerInterface $logger, IAppData $appData, IL10N $l) {
+    public function __construct(
+        Factory $appDataFactory,
+        string $appName,
+        IRequest $request,
+        IConfig $config,
+        protected LoggerInterface $logger,
+        IAppData $appData,
+        IL10N $l,
+        private AppDiscoverFetcher $discoverFetcher,
+        private CategoryFetcher $categoryFetcher,
+		private AppFetcher $appFetcher,
+    ) {
         parent::__construct($appName, $request);
         $this->appName = $appName;
         $this->config = $config;
@@ -148,6 +162,7 @@ class AdminController extends Controller {
         } else {
             $this->logger->error("AppStoreSwitcher: File $url probably does not exist (HTTP $httpCode).");
         }
+        $this->rewriteFile($file);
         return new JSONResponse(['success' => true]);
     }
 
@@ -158,6 +173,7 @@ class AdminController extends Controller {
             foreach (['discover.json', 'apps.json', 'categories.json'] as $file) {
                 if ($folder->fileExists($file)) {
                     $folder->getFile($file)->delete();
+                    $this->rewriteFile($file);
                 }
                 else { $this->logger->error("AppStoreSwitcher: File $file does not exist."); }
             }$folder = null;
@@ -170,5 +186,11 @@ class AdminController extends Controller {
 		}
         } catch (NotFoundException $e) {
         }
+    }
+
+    private function rewriteFile($file): void {
+        if ($file === 'apps.json') $this->appFetcher->get();
+        if ($file === 'categories.json') $this->categoryFetcher->get();
+        if ($file === 'discover.json') $this->discoverFetcher->get();
     }
 }
