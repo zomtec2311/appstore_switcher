@@ -8,7 +8,7 @@
 - 🛡️ Only accessible for administration.
 - ✏️ No manual editing of the config file
 - 👉 Note that this app does not have a direct link, but can be accessed via the administration settings after installation]]></description>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <licence>agpl</licence>
     <author mail="wtoedt@gmail.com" homepage="https://github.com/zomtec2311/appstore_switcher">Wolfgang Tödt</author>
     <namespace>AppStoreSwitcher</namespace>
