@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+
+### Fixed
+- added missing button on new installations
+
 ## 1.0.3
 
 ### Added
