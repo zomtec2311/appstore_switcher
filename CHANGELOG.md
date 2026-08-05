@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.5
+
+### Added
+- added spinner and progress bar while processing
+- added hint
+
+### Changed
+- changed the arrangement of div containers
+- changed the location of the process box
+
 ## 1.0.4
 
 ### Fixed
