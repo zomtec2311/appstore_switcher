@@ -97,7 +97,8 @@ jobs:
 
           # Nicht benötigte Bild-Assets entfernen
           rm -f \
-            "${APP_ID}/*.png"
+            "${APP_ID}/appstore_switcher1.png" \
+            "${APP_ID}/custom-appstore.png"
 
           # Dev-Dateien entfernen
           rm -rf \
